@@ -1,0 +1,10 @@
+{
+  "packs": [
+    {
+      "name": "blip",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen."
+    }
+  ]
+}
