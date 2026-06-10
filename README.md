@@ -11,12 +11,12 @@ default, or switch per run.
 
 ## Packs
 
-| Pack | In action | Author | What it is |
-|---|---|---|---|
-| [`blip`](packs/blip/) | <img src="packs/blip/preview.png" width="280"> | Trevin Chow | A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen. ([model sheet](packs/blip/reference.png)) |
-| [`pip`](packs/pip/) | <img src="packs/pip/preview.png" width="280"> | Trevin Chow | A small round bird — the tiny beak carries the accent. Couriers, small ships, quiet persistence. ([model sheet](packs/pip/reference.png)) |
-| [`cone`](packs/cone/) | <img src="packs/cone/preview.png" width="280"> | Trevin Chow | A deadpan traffic cone with one accent stripe. Blockers, WIP, caution. ([model sheet](packs/cone/reference.png)) |
-| [`sprout`](packs/sprout/) | <img src="packs/sprout/preview.png" width="280"> | Trevin Chow | A just-sprouted seed with one accent leaf. Growth, compounding, small daily effort. ([model sheet](packs/sprout/reference.png)) |
+| Pack | In action | Look | Author | What it is |
+|---|---|---|---|---|
+| [`blip`](packs/blip/) | <img src="packs/blip/preview.png" width="280"> | riso | Trevin Chow | A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen. ([model sheet](packs/blip/reference.png)) |
+| [`pip`](packs/pip/) | <img src="packs/pip/preview.png" width="280"> | riso | Trevin Chow | A small round bird — the tiny beak carries the accent. Couriers, small ships, quiet persistence. ([model sheet](packs/pip/reference.png)) |
+| [`cone`](packs/cone/) | <img src="packs/cone/preview.png" width="280"> | riso | Trevin Chow | A deadpan traffic cone with one accent stripe. Blockers, WIP, caution. ([model sheet](packs/cone/reference.png)) |
+| [`sprout`](packs/sprout/) | <img src="packs/sprout/preview.png" width="280"> | riso | Trevin Chow | A just-sprouted seed with one accent leaf. Growth, compounding, small daily effort. ([model sheet](packs/sprout/reference.png)) |
 
 ## Installing a pack
 

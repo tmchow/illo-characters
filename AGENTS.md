@@ -28,7 +28,8 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    PNG** (image models often return JPEG bytes regardless of filename —
    check with `file`, convert with `sips -s format png in --out out.png` on
    macOS or `magick in out.png`).
-2. **`index.json`** — append `{"name", "author", "version", "description"}`.
+2. **`index.json`** — append `{"name", "author", "version", "description",
+   "style"}` (style = the pack's look, matching the `Style:` line).
    This is the machine catalog the skill's `packs list` reads; a pack absent
    here is invisible to installers.
 3. **Root `README.md` catalog table** — add a row with a thumbnail of the
@@ -49,6 +50,14 @@ python3 .github/validate.py
 
 It enforces the file rules above plus index↔packs consistency. Fix every
 FAIL line; CI blocks merge otherwise.
+
+## Style variants
+
+A pack has exactly one look. The same character in a different style is a
+**sibling pack** named `<name>-<style>` (e.g. `blip-woodcut`): identical
+locked spec, new `Style:` line, a model sheet regenerated in the new look,
+its own preview and index entry. Never add per-style files inside an
+existing pack.
 
 ## Updating an existing pack
 

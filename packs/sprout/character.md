@@ -5,6 +5,8 @@ on a thin stem growing from its head. The name reads off the design.
 
 Credit: **Sprout by Trevin Chow**.
 
+Style: **riso**
+
 ## Locked design
 
 - **Body**: one plump rounded seed — a soft fat oval, slightly wider at the

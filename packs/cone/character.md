@@ -5,6 +5,8 @@ street furniture there is: it stands somewhere inconvenient and won't move.
 
 Credit: **Cone by Trevin Chow**.
 
+Style: **riso**
+
 ## Locked design
 
 - **Body**: a soft-edged traffic cone — gently rounded tip, slightly curved

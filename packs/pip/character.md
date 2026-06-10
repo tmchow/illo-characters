@@ -6,6 +6,8 @@ gets on with it.
 
 Credit: **Pip by Trevin Chow**.
 
+Style: **riso**
+
 ## Locked design
 
 - **Body**: one plump round ball — no neck, no separate head, no tail
