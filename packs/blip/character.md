@@ -5,6 +5,8 @@ screen is a *blip*, a little signal, and the dot eyes echo it.
 
 Credit: **Blip by Trevin Chow** (the original illo mascot).
 
+Style: **riso**
+
 ## Locked design
 
 - **Body**: a rounded-cube with soft corners. Small, stubby arms and legs.

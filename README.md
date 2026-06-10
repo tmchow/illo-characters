@@ -11,9 +11,9 @@ default, or switch per run.
 
 ## Packs
 
-| Pack | In action | Author | What it is |
-|---|---|---|---|
-| [`blip`](packs/blip/) | <img src="packs/blip/preview.png" width="280"> | Trevin Chow | A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen. ([model sheet](packs/blip/reference.png)) |
+| Pack | In action | Look | Author | What it is |
+|---|---|---|---|---|
+| [`blip`](packs/blip/) | <img src="packs/blip/preview.png" width="280"> | riso | Trevin Chow | A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen. ([model sheet](packs/blip/reference.png)) |
 
 ## Installing a pack
 

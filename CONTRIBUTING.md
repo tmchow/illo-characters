@@ -6,7 +6,7 @@ A pack is one folder: `packs/<name>/` with exactly these files.
 
 | File | What it is |
 |---|---|
-| `character.md` | The written spec. Must contain the sections `## Locked design`, `## Prompt spec`, and `## Value rules` (add `## Personality` and a credit line as you like). The prompt spec is one blockquoted paragraph that drops into illo's CHARACTER prompt slot. |
+| `character.md` | The written spec. Must contain the sections `## Locked design`, `## Prompt spec`, `## Value rules`, and a `Style: <look>` line (the pack's one look — riso, blueprint, woodcut, pixel, or a custom style; add `## Personality` and a credit line as you like). The prompt spec is one blockquoted paragraph that drops into illo's CHARACTER prompt slot. |
 | `reference.png` | The canonical model sheet — one clean, front-facing, full-body render on plain paper. This is the consistency anchor the skill passes as `--ref`. |
 | `preview.png` | One *scene* render where the character performs an idea (load-bearing, not posing). This is the review artifact: a model sheet can hide a character that falls apart in scenes. |
 
@@ -14,8 +14,10 @@ Rules (CI-enforced by `.github/validate.py`):
 
 - `<name>` is lowercase kebab-case and unique in `packs/`.
 - Only `.md` and `.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB.
-- Add an entry to `index.json` (`name`, `author`, `version`, `description`)
-  and a row to the README catalog table in the same PR.
+- Add an entry to `index.json` (`name`, `author`, `version`, `description`,
+  `style`) and a row to the README catalog table in the same PR.
+- One pack, one look. A variant of an existing character in another style is
+  its own pack, named `<name>-<style>` (e.g. `blip-woodcut`).
 
 ## Design bar
 

@@ -9,6 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PACKS = ROOT / "packs"
 REQUIRED = ("character.md", "reference.png", "preview.png")
 HEADINGS = ("## Locked design", "## Prompt spec", "## Value rules")
+STYLE_LINE = "Style:"
 MAX_MD = 16 * 1024
 MAX_PNG = 3 * 1024 * 1024
 PNG_MAGIC = b"\x89PNG\r\n\x1a\n"
@@ -36,6 +37,8 @@ for d in packs:
         for h in HEADINGS:
             if h not in text:
                 errors.append(f"{name}: character.md missing '{h}' section")
+        if STYLE_LINE not in text:
+            errors.append(f"{name}: character.md missing 'Style:' line (the pack's one look)")
     for png in d.glob("*.png"):
         if png.stat().st_size > MAX_PNG:
             errors.append(f"{name}: {png.name} exceeds {MAX_PNG} bytes")
@@ -52,7 +55,7 @@ try:
     for stale in sorted(listed - actual):
         errors.append(f"index.json: entry for nonexistent pack {stale}")
     for p in entries:
-        for key in ("name", "author", "version", "description"):
+        for key in ("name", "author", "version", "description", "style"):
             if not p.get(key):
                 errors.append(f"index.json: {p.get('name', '?')}: missing {key}")
 except Exception as e:  # malformed JSON, missing file, wrong shape
