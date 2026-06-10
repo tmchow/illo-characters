@@ -17,6 +17,9 @@ default, or switch per run.
 | [`pip`](packs/pip/) | <img src="packs/pip/preview.png" width="280"> | riso | Trevin Chow | A small round bird — the tiny beak carries the accent. Couriers, small ships, quiet persistence. ([model sheet](packs/pip/reference.png)) |
 | [`cone`](packs/cone/) | <img src="packs/cone/preview.png" width="280"> | riso | Trevin Chow | A deadpan traffic cone with one accent stripe. Blockers, WIP, caution. ([model sheet](packs/cone/reference.png)) |
 | [`sprout`](packs/sprout/) | <img src="packs/sprout/preview.png" width="280"> | riso | Trevin Chow | A just-sprouted seed with one accent leaf. Growth, compounding, small daily effort. ([model sheet](packs/sprout/reference.png)) |
+| [`lumen`](packs/lumen/) | <img src="packs/lumen/preview.png" width="280"> | blueprint | Trevin Chow | A small light bulb — accent filament. Ideas, plans, how-it-works. ([model sheet](packs/lumen/reference.png)) |
+| [`anvil`](packs/anvil/) | <img src="packs/anvil/preview.png" width="280"> | woodcut | Trevin Chow | A small anvil — accent horn. Hard feedback, durability. ([model sheet](packs/anvil/reference.png)) |
+| [`volt`](packs/volt/) | <img src="packs/volt/preview.png" width="280"> | pixel | Trevin Chow | A small battery — accent terminal nub. Energy, capacity, recharge. ([model sheet](packs/volt/reference.png)) |
 
 ## Installing a pack
 

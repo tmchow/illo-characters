@@ -27,6 +27,27 @@
       "version": "1.0.0",
       "description": "A just-sprouted seed — one accent leaf on its head; the character for growth and compounding.",
       "style": "riso"
+    },
+    {
+      "name": "lumen",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A small light bulb — one accent filament; the character for ideas, plans, and how-it-works pieces.",
+      "style": "blueprint"
+    },
+    {
+      "name": "anvil",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A small anvil — accent horn; the character for hard feedback and where things get hammered out.",
+      "style": "woodcut"
+    },
+    {
+      "name": "volt",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A small battery — one accent terminal nub; the character for energy, capacity, and recharge.",
+      "style": "pixel"
     }
   ]
 }
