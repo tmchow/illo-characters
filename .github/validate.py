@@ -10,6 +10,7 @@ PACKS = ROOT / "packs"
 REQUIRED = ("character.md", "reference.png", "preview.png")
 HEADINGS = ("## Locked design", "## Prompt spec", "## Value rules")
 STYLE_LINE = "Style:"
+RESERVED = {"blot", "illo", "riso", "blueprint", "woodcut", "pixel"}
 MAX_MD = 16 * 1024
 MAX_PNG = 3 * 1024 * 1024
 PNG_MAGIC = b"\x89PNG\r\n\x1a\n"
@@ -23,6 +24,8 @@ for d in packs:
     name = d.name
     if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", name):
         errors.append(f"{name}: pack name is not lowercase kebab-case")
+    if name in RESERVED:
+        errors.append(f"{name}: pack name is reserved (shipped character or look name)")
     for f in REQUIRED:
         if not (d / f).is_file():
             errors.append(f"{name}: missing {f}")
