@@ -10,7 +10,7 @@ A pack is one folder: `packs/<name>/` with exactly these files.
 | `reference.png` | The canonical model sheet — one clean, front-facing, full-body render on plain paper. This is the consistency anchor the skill passes as `--ref`. |
 | `preview.png` | One *scene* render where the character performs an idea (load-bearing, not posing). This is the review artifact: a model sheet can hide a character that falls apart in scenes. |
 
-Rules (CI-enforced by `.github/validate.py`):
+Rules (CI-enforced by `.github/validate.py` on every PR):
 
 - `<name>` is lowercase kebab-case and **globally unique** — `index.json`
   here is the ecosystem's name registry ("use <name>" is how agents select
@@ -21,6 +21,10 @@ Rules (CI-enforced by `.github/validate.py`):
   `style`) and a row to the README catalog table in the same PR.
 - One pack, one look. A variant of an existing character in another style is
   its own pack, named `<name>-<style>` (e.g. `blip-woodcut`).
+- CI also checks definition content: the prompt spec is a blockquote and
+  states the house rules (deadpan, accent carrier); the `Style:` line matches
+  the index `style` field; versions are semver; descriptions ≤ 200 chars;
+  images are ≥ 512 px on the short side and have a README catalog row.
 
 ## Design bar
 
