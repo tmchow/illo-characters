@@ -5,6 +5,24 @@
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen."
+    },
+    {
+      "name": "pip",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A small round bird — a soft ball with dot eyes; the tiny beak carries the accent."
+    },
+    {
+      "name": "cone",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A deadpan traffic cone — one accent stripe; the character for blockers, WIP, and caution."
+    },
+    {
+      "name": "sprout",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A just-sprouted seed — one accent leaf on its head; the character for growth and compounding."
     }
   ]
 }
