@@ -52,8 +52,11 @@ Before opening the PR, run the same check CI runs:
 python3 .github/validate.py
 ```
 
-It enforces the file rules above plus index↔packs consistency. Fix every
-FAIL line; CI blocks merge otherwise.
+It enforces the file rules above, index↔packs consistency, and definition
+content: prompt spec is a blockquote stating the house rules (deadpan,
+accent carrier), `Style:` line matches the index `style` field, semver
+versions, description length, minimum image dimensions, and a README
+catalog row per pack. Fix every FAIL line; CI blocks merge otherwise.
 
 ## Style variants
 
