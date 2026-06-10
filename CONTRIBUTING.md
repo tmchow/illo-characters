@@ -12,7 +12,10 @@ A pack is one folder: `packs/<name>/` with exactly these files.
 
 Rules (CI-enforced by `.github/validate.py`):
 
-- `<name>` is lowercase kebab-case and unique in `packs/`.
+- `<name>` is lowercase kebab-case and **globally unique** — `index.json`
+  here is the ecosystem's name registry ("use <name>" is how agents select
+  characters). Reserved names: `blot`, `illo`, `riso`, `blueprint`,
+  `woodcut`, `pixel`.
 - Only `.md` and `.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB.
 - Add an entry to `index.json` (`name`, `author`, `version`, `description`,
   `style`) and a row to the README catalog table in the same PR.
