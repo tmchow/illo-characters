@@ -27,7 +27,8 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    selection keys agents use ("use anvil"), so a name may exist once across
    the whole ecosystem — this repo's `index.json` is the registry. Reserved
    (never pack names): `blot` (ships with the skill), `illo`, and the look
-   names `riso`, `blueprint`, `woodcut`, `pixel`. CI enforces both rules. Only
+   names (`riso`, `blueprint`, `woodcut`, `pixel`, `clay`, `manila`,
+   `chalk`, `phosphor`, `enamel`, `gouache`). CI enforces both rules. Only
    `.md`/`.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB and a **real
    PNG** (image models often return JPEG bytes regardless of filename —
    check with `file`, convert with `sips -s format png in --out out.png` on

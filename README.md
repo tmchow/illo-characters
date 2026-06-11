@@ -20,6 +20,12 @@ default, or switch per run.
 | [`lumen`](packs/lumen/) | <img src="packs/lumen/preview.png" width="280"> | blueprint | Trevin Chow | A small light bulb — accent filament. Ideas, plans, how-it-works. ([model sheet](packs/lumen/reference.png)) |
 | [`anvil`](packs/anvil/) | <img src="packs/anvil/preview.png" width="280"> | woodcut | Trevin Chow | A small anvil — accent horn. Hard feedback, durability. ([model sheet](packs/anvil/reference.png)) |
 | [`volt`](packs/volt/) | <img src="packs/volt/preview.png" width="280"> | pixel | Trevin Chow | A small battery — accent terminal nub. Energy, capacity, recharge. ([model sheet](packs/volt/reference.png)) |
+| [`mole`](packs/mole/) | <img src="packs/mole/preview.png" width="280"> | clay | Trevin Chow | A plump clay mole — coral nose-tip accent. Debugging, root cause, going deep. ([model sheet](packs/mole/reference.png)) |
+| [`stamp`](packs/stamp/) | <img src="packs/stamp/preview.png" width="280"> | manila | Trevin Chow | An upright rubber stamp — accent knob handle. Approvals, sign-off, shipping gates. ([model sheet](packs/stamp/reference.png)) |
+| [`lapse`](packs/lapse/) | <img src="packs/lapse/preview.png" width="280"> | chalk | Trevin Chow | An hourglass — the sand carries the accent. Deadlines, timeboxes, where the time went. ([model sheet](packs/lapse/reference.png)) |
+| [`scope`](packs/scope/) | <img src="packs/scope/preview.png" width="280"> | phosphor | Trevin Chow | A stout periscope — accent lens rim. Observability, monitoring, scope creep. ([model sheet](packs/scope/reference.png)) |
+| [`boss`](packs/boss/) | <img src="packs/boss/preview.png" width="280"> | enamel | Trevin Chow | A round shield — the center dome (the boss) carries the accent. Security, guarding prod, boss fights. ([model sheet](packs/boss/reference.png)) |
+| [`brew`](packs/brew/) | <img src="packs/brew/preview.png" width="280"> | gouache | Trevin Chow | A squat coffee mug — accent loop handle. Deep work, steeping ideas, builds brewing. ([model sheet](packs/brew/reference.png)) |
 
 ## Installing a pack
 

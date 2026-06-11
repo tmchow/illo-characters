@@ -48,6 +48,48 @@
       "version": "1.0.0",
       "description": "A small battery — one accent terminal nub; the character for energy, capacity, and recharge.",
       "style": "pixel"
+    },
+    {
+      "name": "mole",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A plump clay mole — coral nose-tip accent; the character for debugging, root-cause digging, and going deep.",
+      "style": "clay"
+    },
+    {
+      "name": "stamp",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "An upright rubber stamp — accent knob handle; the character for approvals, sign-off, and shipping gates.",
+      "style": "manila"
+    },
+    {
+      "name": "lapse",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "An hourglass — the sand carries the accent; the character for deadlines, timeboxes, and where the time went.",
+      "style": "chalk"
+    },
+    {
+      "name": "scope",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A stout periscope with a lens-window face — accent lens rim; the character for observability, monitoring, and scope creep.",
+      "style": "phosphor"
+    },
+    {
+      "name": "boss",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A round shield with a domed center boss — the dome carries the accent; the character for security, guarding prod, and boss fights.",
+      "style": "enamel"
+    },
+    {
+      "name": "brew",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A squat coffee mug — accent loop handle; the character for deep work, steeping ideas, and builds brewing.",
+      "style": "gouache"
     }
   ]
 }

@@ -12,7 +12,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PACKS = ROOT / "packs"
 REQUIRED = ("character.md", "reference.png", "preview.png")
 HEADINGS = ("## Locked design", "## Prompt spec", "## Value rules")
-RESERVED = {"blot", "illo", "riso", "blueprint", "woodcut", "pixel"}
+RESERVED = {"blot", "illo", "riso", "blueprint", "woodcut", "pixel",
+            "clay", "manila", "chalk", "phosphor", "enamel", "gouache"}
 KEBAB = re.compile(r"[a-z0-9]+(-[a-z0-9]+)*")
 SEMVER = re.compile(r"\d+\.\d+\.\d+")
 STYLE_RE = re.compile(r"^Style:\s*\**([a-z0-9-]+)\**\s*$", re.M)
