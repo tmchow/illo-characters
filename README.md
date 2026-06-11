@@ -26,6 +26,22 @@ default, or switch per run.
 | [`scope`](packs/scope/) | <img src="packs/scope/preview.png" width="280"> | phosphor | Trevin Chow | A stout periscope — accent lens rim. Observability, monitoring, scope creep. ([model sheet](packs/scope/reference.png)) |
 | [`boss`](packs/boss/) | <img src="packs/boss/preview.png" width="280"> | enamel | Trevin Chow | A round shield — the center dome (the boss) carries the accent. Security, guarding prod, boss fights. ([model sheet](packs/boss/reference.png)) |
 | [`brew`](packs/brew/) | <img src="packs/brew/preview.png" width="280"> | gouache | Trevin Chow | A squat coffee mug — accent loop handle. Deep work, steeping ideas, builds brewing. ([model sheet](packs/brew/reference.png)) |
+| [`inch`](packs/inch/) | <img src="packs/inch/preview.png" width="280"> | chalk | Trevin Chow | A chalk inchworm — orange rear gripper-pad accent. Incremental progress, migrations, "how far along are we". ([model sheet](packs/inch/reference.png)) |
+| [`grit`](packs/grit/) | <img src="packs/grit/preview.png" width="280"> | pixel | Trevin Chow | A pixel tardigrade — magenta snout-tube accent. Resilience, fault tolerance, has survived worse. ([model sheet](packs/grit/reference.png)) |
+| [`heft`](packs/heft/) | <img src="packs/heft/preview.png" width="280"> | woodcut | Trevin Chow | A ball-rolling beetle — vermilion pusher-pad accent. Tech debt, the big slow refactor. ([model sheet](packs/heft/reference.png)) |
+| [`lure`](packs/lure/) | <img src="packs/lure/preview.png" width="280"> | phosphor | Trevin Chow | A deep-sea anglerfish — amber lure-bead accent. Search and retrieval, the one match in the dark. ([model sheet](packs/lure/reference.png)) |
+| [`squall`](packs/squall/) | <img src="packs/squall/preview.png" width="280"> | chalk | Trevin Chow | A small storm cloud — zigzag bolt-tail accent. Incidents, outages, war rooms, postmortems. ([model sheet](packs/squall/reference.png)) |
+| [`berg`](packs/berg/) | <img src="packs/berg/preview.png" width="280"> | blueprint | Trevin Chow | A small iceberg — orange peak-cap accent. Estimates and the hidden nine-tenths of the project. ([model sheet](packs/berg/reference.png)) |
+| [`clam`](packs/clam/) | <img src="packs/clam/preview.png" width="280"> | gouache | Trevin Chow | A smooth closed clam — tomato hinge-knob accent. Encapsulation, API design, simple outside. ([model sheet](packs/clam/reference.png)) |
+| [`yoke`](packs/yoke/) | <img src="packs/yoke/preview.png" width="280"> | blueprint | Trevin Chow | A placid zebu ox — orange shoulder-hump accent. Automation, delegation, cron, agents. ([model sheet](packs/yoke/reference.png)) |
+| [`tug`](packs/tug/) | <img src="packs/tug/preview.png" width="280"> | enamel | Trevin Chow | A horseshoe magnet — bare-steel tip accent. Dependencies, lockfiles, the install that drags the internet. ([model sheet](packs/tug/reference.png)) |
+| [`patch`](packs/patch/) | <img src="packs/patch/preview.png" width="280"> | manila | Trevin Chow | A fat roll of tape — lifted red tab accent. Hotfixes, workarounds, duct-tape engineering. ([model sheet](packs/patch/reference.png)) |
+| [`scrub`](packs/scrub/) | <img src="packs/scrub/preview.png" width="280"> | clay | Trevin Chow | A beveled eraser wedge — scuffed coral edge accent. Deleting dead code, refactor-by-removal. ([model sheet](packs/scrub/reference.png)) |
+| [`sift`](packs/sift/) | <img src="packs/sift/preview.png" width="280"> | pixel | Trevin Chow | A footed colander — magenta rolled-rim accent. Triage, signal vs noise, alert fatigue. ([model sheet](packs/sift/reference.png)) |
+| [`nona`](packs/nona/) | <img src="packs/nona/preview.png" width="280"> | woodcut | Trevin Chow | A plain wooden nesting doll — vermilion seam accent. Releases, versioning, changelogs. ([model sheet](packs/nona/reference.png)) |
+| [`stoke`](packs/stoke/) | <img src="packs/stoke/preview.png" width="280"> | phosphor | Trevin Chow | A vacuum tube — warm filament-glow accent. Caching, warm starts, cold starts. ([model sheet](packs/stoke/reference.png)) |
+| [`clack`](packs/clack/) | <img src="packs/clack/preview.png" width="280"> | chalk | Trevin Chow | An upright blank domino — painted seam accent. Cascading failures, chain reactions. ([model sheet](packs/clack/reference.png)) |
+| [`dice`](packs/dice/) | <img src="packs/dice/preview.png" width="280"> | pixel | Trevin Chow | A plump one-pip die — top-face pip accent. Chance, flaky tests, nondeterminism. ([model sheet](packs/dice/reference.png)) |
 
 ## Installing a pack
 
