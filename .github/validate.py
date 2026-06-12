@@ -12,8 +12,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PACKS = ROOT / "packs"
 REQUIRED = ("character.md", "reference.png", "preview.png")
 HEADINGS = ("## Locked design", "## Prompt spec", "## Value rules")
-RESERVED = {"blot", "illo", "riso", "blueprint", "woodcut", "pixel",
-            "clay", "manila", "chalk", "phosphor", "enamel", "gouache"}
+LOOKS = {"riso", "blueprint", "woodcut", "pixel",
+         "clay", "manila", "chalk", "phosphor", "enamel", "gouache"}
+RESERVED = {"blot", "illo"} | LOOKS
 KEBAB = re.compile(r"[a-z0-9]+(-[a-z0-9]+)*")
 SEMVER = re.compile(r"\d+\.\d+\.\d+")
 STYLE_RE = re.compile(r"^Style:\s*\**([a-z0-9-]+)\**\s*$", re.M)
@@ -78,10 +79,10 @@ for d in packs:
         if spec and not re.search(r"^\s*>", spec, re.M):
             errors.append(f"{name}: '## Prompt spec' has no blockquoted paragraph "
                           f"(the CHARACTER-slot text must be a > quote)")
-        for word in ("deadpan", "accent"):
-            if word not in spec.lower():
-                errors.append(f"{name}: prompt spec never says '{word}' — the house "
-                              f"rules (blank deadpan, one accent carrier) must be in the spec")
+        if spec and "accent" not in spec.lower():
+            errors.append(f"{name}: prompt spec never names the accent carrier — "
+                          f"exactly one accent-colored part is structural; "
+                          f"'accent' must appear in the spec")
 
     for png in d.glob("*.png"):
         b = png.read_bytes()
@@ -117,6 +118,11 @@ try:
         style = p.get("style")
         if style and not KEBAB.fullmatch(style):
             errors.append(f"index.json: {pname}: style {style!r} is not kebab-case")
+        elif style and style not in LOOKS:
+            errors.append(f"index.json: {pname}: style {style!r} is not a bundled "
+                          f"look — catalog packs must use one of: "
+                          f"{', '.join(sorted(LOOKS))} (custom styles stay local "
+                          f"until promoted into the skill's look library)")
         if style and pname in declared_styles and declared_styles[pname] != style:
             errors.append(f"index.json: {pname}: style {style!r} != character.md "
                           f"Style line {declared_styles[pname]!r}")
