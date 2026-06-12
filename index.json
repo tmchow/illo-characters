@@ -202,6 +202,13 @@
       "version": "1.0.0",
       "description": "A plump one-pip die — top-face pip accent; the character for chance and nondeterminism: flaky tests, A/B experiments, risky rollouts, and \"roll the dice\" decisions.",
       "style": "pixel"
+    },
+    {
+      "name": "bray",
+      "author": "Matt Van Horn",
+      "version": "1.0.0",
+      "description": "A small donkey bent from one continuous loop of craft wire — accent tail-tip tuft; the patient pack animal for hauling loads, batch jobs, and slow steady throughput.",
+      "style": "riso"
     }
   ]
 }
