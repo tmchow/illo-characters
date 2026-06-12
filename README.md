@@ -1,6 +1,6 @@
 # illo-characters
 
-Community **character packs** for [illo](https://github.com/tmchow/agent-skills/tree/main/illo) —
+Community **character packs** for [illo](https://github.com/tmchow/illo-skill/tree/main/illo) —
 the editorial-illustration agent skill. A pack is a recurring mascot: a
 written spec (`character.md`) plus a canonical model sheet (`reference.png`)
 that keeps the character on-model across every image the skill generates.

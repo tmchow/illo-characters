@@ -1,6 +1,6 @@
 # illo-characters
 
-Community character packs for the [illo](https://github.com/tmchow/agent-skills/tree/main/illo)
+Community character packs for the [illo](https://github.com/tmchow/illo-skill/tree/main/illo)
 agent skill. This guide is for agents (and humans) editing this repo. Keep it
 accurate when conventions change.
 
@@ -77,7 +77,7 @@ except for repo-wide maintenance.
 ## Design bar (review criteria)
 
 Characters must follow illo's character rules, defined in the skill's
-[`references/character.md`](https://github.com/tmchow/agent-skills/blob/main/illo/references/character.md).
+[`references/character.md`](https://github.com/tmchow/illo-skill/blob/main/illo/references/character.md).
 Two tiers:
 
 - **Structural rules — bind every pack**: one simple silhouette, a

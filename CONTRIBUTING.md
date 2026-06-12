@@ -30,7 +30,7 @@ Rules (CI-enforced by `.github/validate.py` on every PR):
 ## Design bar
 
 Characters follow illo's character rules (see
-[`references/character.md`](https://github.com/tmchow/agent-skills/blob/main/illo/references/character.md)
+[`references/character.md`](https://github.com/tmchow/illo-skill/blob/main/illo/references/character.md)
 in the skill). The **structural rules** bind every pack: one simple
 silhouette, a locked exactly-specified face, exactly ONE accent-carrying
 part, and nothing a render can improvise — every part, accessory, or body
