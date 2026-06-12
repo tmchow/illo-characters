@@ -54,8 +54,9 @@ python3 .github/validate.py
 ```
 
 It enforces the file rules above, index↔packs consistency, and definition
-content: prompt spec is a blockquote stating the house rules (deadpan,
-accent carrier), `Style:` line matches the index `style` field, semver
+content: prompt spec is a blockquote naming the one accent carrier, `Style:`
+line matches the index `style` field and names a **bundled look** (custom
+styles stay local until promoted into the skill's look library), semver
 versions, description length, minimum image dimensions, and a README
 catalog row per pack. Fix every FAIL line; CI blocks merge otherwise.
 
@@ -75,10 +76,21 @@ except for repo-wide maintenance.
 
 ## Design bar (review criteria)
 
-Characters must follow illo's character rules — one simple silhouette, two
-dot eyes, blank deadpan, stubby limbs, exactly ONE accent-carrying part, no
-detail creep — defined in the skill's
+Characters must follow illo's character rules, defined in the skill's
 [`references/character.md`](https://github.com/tmchow/agent-skills/blob/main/illo/references/character.md).
+Two tiers:
+
+- **Structural rules — bind every pack**: one simple silhouette, a
+  **locked, exactly-specified face**, exactly ONE accent-carrying part,
+  value rules, and nothing unlocked (every part or body treatment a render
+  shows must be named in the locked design).
+- **House family look — the steered default, not a gate**: two dot eyes,
+  blank deadpan, stubby limbs. Packs that diverge (a mouth, a quadruped, a
+  body built from a material) are welcome when the divergence is deliberate,
+  locked in render-checkable terms, and strong — expect a **higher review
+  bar** than a house-look pack: reviewers ask "does this still read as illo
+  in a scene?", and the preview render is where that's judged.
+
 Also: visually distinct from existing packs and from common clichés (file
 icons, famous mascots), safe-for-work, no third-party IP. The skill's
 character builder produces compliant packs; hand-made ones are judged by the
