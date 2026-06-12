@@ -42,6 +42,7 @@ default, or switch per run.
 | [`stoke`](packs/stoke/) | <img src="packs/stoke/preview.png" width="280"> | phosphor | Trevin Chow | A vacuum tube — warm filament-glow accent. Caching, warm starts, cold starts. ([model sheet](packs/stoke/reference.png)) |
 | [`clack`](packs/clack/) | <img src="packs/clack/preview.png" width="280"> | chalk | Trevin Chow | An upright blank domino — painted seam accent. Cascading failures, chain reactions. ([model sheet](packs/clack/reference.png)) |
 | [`dice`](packs/dice/) | <img src="packs/dice/preview.png" width="280"> | pixel | Trevin Chow | A plump one-pip die — top-face pip accent. Chance, flaky tests, nondeterminism. ([model sheet](packs/dice/reference.png)) |
+| [`bray`](packs/bray/) | <img src="packs/bray/preview.png" width="280"> | riso | Matt Van Horn | A donkey bent from one loop of craft wire — accent tail-tip tuft. Hauling loads, batch jobs, slow steady throughput. ([model sheet](packs/bray/reference.png)) |
 
 ## Installing a pack
 
