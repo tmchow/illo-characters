@@ -44,6 +44,10 @@ default, or switch per run.
 | [`dice`](packs/dice/) | <img src="packs/dice/preview.png" width="280"> | pixel | Trevin Chow | A plump one-pip die — top-face pip accent. Chance, flaky tests, nondeterminism. _aka `die`._ ([model sheet](packs/dice/reference.png)) |
 | [`bray`](packs/bray/) | <img src="packs/bray/preview.png" width="280"> | riso | Matt Van Horn | A donkey bent from one loop of craft wire — accent tail-tip tuft. Hauling loads, batch jobs, slow steady throughput. _aka `donkey`, `mule`, `burro`._ ([model sheet](packs/bray/reference.png)) |
 | [`cadence`](packs/cadence/) | <img src="packs/cadence/preview.png" width="280"> | riso | Todd Dailey | A friendly robot fitness and health coach — accent antenna bulb; warm-ups, workouts, and healthy habits. ([model sheet](packs/cadence/reference.png)) |
+| [`quill`](packs/quill/) | <img src="packs/quill/preview.png" width="280"> | felt | Trevin Chow | A plump baby hedgehog of layered felt quills — one felt-leaf accent. Curling up to keep what matters safe. _aka `hedgehog`, `porcupine`._ ([model sheet](packs/quill/reference.png)) |
+| [`plume`](packs/plume/) | <img src="packs/plume/preview.png" width="280"> | felt | Trevin Chow | A plump baby owl of layered felt feathers — accent V-beak. Watching, noticing, keeping the night-shift. _aka `owl`, `owlet`._ ([model sheet](packs/plume/reference.png)) |
+| [`posy`](packs/posy/) | <img src="packs/posy/preview.png" width="280"> | felt | Trevin Chow | A round flower-bud creature in layered felt petals — a tiny ladybug accent. Fresh starts and opening up. _aka `flower`, `blossom`._ ([model sheet](packs/posy/reference.png)) |
+| [`pleat`](packs/pleat/) | <img src="packs/pleat/preview.png" width="280"> | felt | Trevin Chow | A plump felt soup dumpling with one gathered pleat-knot — chili-dab accent. Fresh out, ready to serve. _aka `dumpling`, `bao`._ ([model sheet](packs/pleat/reference.png)) |
 
 ## Installing a pack
 

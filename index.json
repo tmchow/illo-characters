@@ -340,6 +340,50 @@
       "version": "1.0.0",
       "description": "A friendly robot fitness and health coach — accent antenna bulb; the character for warm-ups, workouts, and healthy habits.",
       "style": "riso"
+    },
+    {
+      "name": "quill",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A plump baby hedgehog built from layered felt quills — one felt-leaf accent; the character for protecting what matters, careful guarding, and curling up around the thing to keep it safe.",
+      "style": "felt",
+      "aliases": [
+        "hedgehog",
+        "porcupine"
+      ]
+    },
+    {
+      "name": "plume",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A plump baby owl built from layered felt feathers — accent V-beak; the character for watching and noticing, observability, code review, and keeping the night-shift.",
+      "style": "felt",
+      "aliases": [
+        "owl",
+        "owlet"
+      ]
+    },
+    {
+      "name": "posy",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A round flower-bud creature wrapped in layered felt petals — a tiny ladybug accent; the character for fresh starts, onboarding, growth, and good-morning beginnings.",
+      "style": "felt",
+      "aliases": [
+        "flower",
+        "blossom"
+      ]
+    },
+    {
+      "name": "pleat",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A plump felt soup dumpling with one gathered pleat-knot — chili-dab accent; the character for things fresh out and ready to serve: new releases, hot off the build.",
+      "style": "felt",
+      "aliases": [
+        "dumpling",
+        "bao"
+      ]
     }
   ]
 }

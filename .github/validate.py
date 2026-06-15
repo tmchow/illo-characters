@@ -13,7 +13,8 @@ PACKS = ROOT / "packs"
 REQUIRED = ("character.md", "reference.png", "preview.png")
 HEADINGS = ("## Locked design", "## Prompt spec", "## Value rules")
 LOOKS = {"riso", "blueprint", "woodcut", "pixel",
-         "clay", "manila", "chalk", "phosphor", "enamel", "gouache"}
+         "clay", "manila", "chalk", "phosphor", "enamel", "gouache",
+         "felt"}
 RESERVED = {"blot", "illo"} | LOOKS
 KEBAB = re.compile(r"[a-z0-9]+(-[a-z0-9]+)*")
 SEMVER = re.compile(r"\d+\.\d+\.\d+")
