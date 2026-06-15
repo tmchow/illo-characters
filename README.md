@@ -43,6 +43,7 @@ default, or switch per run.
 | [`clack`](packs/clack/) | <img src="packs/clack/preview.png" width="280"> | chalk | Trevin Chow | An upright blank domino — painted seam accent. Cascading failures, chain reactions. _aka `domino`, `domino-tile`._ ([model sheet](packs/clack/reference.png)) |
 | [`dice`](packs/dice/) | <img src="packs/dice/preview.png" width="280"> | pixel | Trevin Chow | A plump one-pip die — top-face pip accent. Chance, flaky tests, nondeterminism. _aka `die`._ ([model sheet](packs/dice/reference.png)) |
 | [`bray`](packs/bray/) | <img src="packs/bray/preview.png" width="280"> | riso | Matt Van Horn | A donkey bent from one loop of craft wire — accent tail-tip tuft. Hauling loads, batch jobs, slow steady throughput. _aka `donkey`, `mule`, `burro`._ ([model sheet](packs/bray/reference.png)) |
+| [`cadence`](packs/cadence/) | <img src="packs/cadence/preview.png" width="280"> | riso | Todd Dailey | A friendly robot fitness and health coach — accent antenna bulb; warm-ups, workouts, and healthy habits. ([model sheet](packs/cadence/reference.png)) |
 
 ## Installing a pack
 

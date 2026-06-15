@@ -333,6 +333,13 @@
         "mule",
         "burro"
       ]
+    },
+    {
+      "name": "cadence",
+      "author": "Todd Dailey",
+      "version": "1.0.0",
+      "description": "A friendly robot fitness and health coach — accent antenna bulb; the character for warm-ups, workouts, and healthy habits.",
+      "style": "riso"
     }
   ]
 }
