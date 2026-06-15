@@ -15,22 +15,31 @@ Aliases: mug, coffee-mug, coffee, cup
   outlines.
 - **Face**: two simple dot eyes on the mug body, left as bare paper.
   Completely blank, deadpan, neutral — **no eyebrows, no mouth, ever**.
-- **Handle**: one loop handle on its left side — the **accent carrier** and
-  only accent-colored part. One small stubby arm on the other side.
+- **Handle**: one loop handle on the side opposite the arm — the **accent
+  carrier** and only accent-colored part. The handle is not a hand, not a
+  second arm, and never performs grasping or pulling.
+- **Arm**: exactly one small stubby arm on the non-handle side, short enough
+  to read as a little appendage attached to the mug. It may rest, nudge, or
+  touch a nearby object, but it must never stretch across the scene, become a
+  long bar/cable/lever, pass through the handle, or dominate the composition.
 - Cuteness comes from proportion and roundness, never from added parts.
 - Never add: steam, visible liquid, a saucer, patterns or logos on the mug,
-  a spoon, eyebrows, mouth, clothing, accessories.
+  a spoon, eyebrows, mouth, clothing, accessories, extra arms, long arms, or
+  arm-like tools fused to the body or handle.
 
 ## Prompt spec
 
 > the recurring mascot — one squat round coffee mug standing on small stubby
 > legs, two simple dot eyes on the mug body left as bare paper, blank
-> deadpan (no eyebrows, no mouth), one small stubby arm on one side; the
-> loop handle on the other side is the ONLY accent-colored part. It MUST
-> perform the move, not decorate. No steam, no visible liquid, no saucer.
-> Painted as flat matte gouache shapes like everything else — no drawn
-> outlines. {value rule: paint-ink body with bare-paper eyes; on very dark
-> grounds, a pale body separated by value}
+> deadpan (no eyebrows, no mouth), exactly one SMALL STUBBY arm on the side
+> opposite the handle; the loop handle is the ONLY accent-colored part and
+> is NOT a hand or second arm. The arm must stay short and attached to the
+> mug — it may nudge a nearby object but must never stretch across the scene,
+> become a long lever/cable/bar, pass through the handle, or dominate the
+> composition. It MUST perform the move, not decorate. No steam, no visible
+> liquid, no saucer, no spoon. Painted as flat matte gouache shapes like
+> everything else — no drawn outlines. {value rule: paint-ink body with
+> bare-paper eyes; on very dark grounds, a pale body separated by value}
 
 ## Value rules
 
