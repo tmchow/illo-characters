@@ -6,6 +6,7 @@ literal dome at a shield's center — and doubles for the fights worth having.
 Credit: **Boss by Trevin Chow**.
 
 Style: **enamel**
+Aliases: shield, buckler
 
 ## Locked design
 

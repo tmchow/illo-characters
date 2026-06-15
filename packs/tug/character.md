@@ -7,6 +7,7 @@ dragging everything else along.
 Credit: **Tug by Trevin Chow**.
 
 Style: **enamel**
+Aliases: magnet, horseshoe-magnet
 
 ## Locked design
 

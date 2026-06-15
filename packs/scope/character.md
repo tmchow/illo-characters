@@ -6,6 +6,7 @@ scope creep — for the character that watches.
 Credit: **Scope by Trevin Chow**.
 
 Style: **phosphor**
+Aliases: periscope
 
 ## Locked design
 

@@ -5,35 +5,56 @@
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A deadpan screen-faced robot — one antenna with an accent ball tip, two dot eyes on a screen.",
-      "style": "riso"
+      "style": "riso",
+      "aliases": [
+        "robot",
+        "bot"
+      ]
     },
     {
       "name": "pip",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A small round bird — a soft ball with dot eyes; the tiny beak carries the accent.",
-      "style": "riso"
+      "style": "riso",
+      "aliases": [
+        "bird",
+        "chick"
+      ]
     },
     {
       "name": "cone",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A deadpan traffic cone — one accent stripe; the character for blockers, WIP, and caution.",
-      "style": "riso"
+      "style": "riso",
+      "aliases": [
+        "traffic-cone",
+        "pylon"
+      ]
     },
     {
       "name": "sprout",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A just-sprouted seed — one accent leaf on its head; the character for growth and compounding.",
-      "style": "riso"
+      "style": "riso",
+      "aliases": [
+        "seed",
+        "seedling"
+      ]
     },
     {
       "name": "lumen",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A small light bulb — one accent filament; the character for ideas, plans, and how-it-works pieces.",
-      "style": "blueprint"
+      "style": "blueprint",
+      "aliases": [
+        "light-bulb",
+        "lightbulb",
+        "bulb"
+      ]
     },
     {
       "name": "anvil",
@@ -47,7 +68,11 @@
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A small battery — one accent terminal nub; the character for energy, capacity, and recharge.",
-      "style": "pixel"
+      "style": "pixel",
+      "aliases": [
+        "battery",
+        "cell"
+      ]
     },
     {
       "name": "mole",
@@ -61,154 +86,253 @@
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "An upright rubber stamp — accent knob handle; the character for approvals, sign-off, and shipping gates.",
-      "style": "manila"
+      "style": "manila",
+      "aliases": [
+        "rubber-stamp"
+      ]
     },
     {
       "name": "lapse",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "An hourglass — the sand carries the accent; the character for deadlines, timeboxes, and where the time went.",
-      "style": "chalk"
+      "style": "chalk",
+      "aliases": [
+        "hourglass",
+        "sandglass",
+        "egg-timer"
+      ]
     },
     {
       "name": "scope",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A stout periscope with a lens-window face — accent lens rim; the character for observability, monitoring, and scope creep.",
-      "style": "phosphor"
+      "style": "phosphor",
+      "aliases": [
+        "periscope"
+      ]
     },
     {
       "name": "boss",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A round shield with a domed center boss — the dome carries the accent; the character for security, guarding prod, and boss fights.",
-      "style": "enamel"
+      "style": "enamel",
+      "aliases": [
+        "shield",
+        "buckler"
+      ]
     },
     {
       "name": "brew",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A squat coffee mug — accent loop handle; the character for deep work, steeping ideas, and builds brewing.",
-      "style": "gouache"
+      "style": "gouache",
+      "aliases": [
+        "mug",
+        "coffee-mug",
+        "coffee",
+        "cup"
+      ]
     },
     {
       "name": "inch",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A chalk inchworm arched mid-step — orange rear gripper pad accent; the character for incremental progress, step-by-step migrations, and \"how far along are we\".",
-      "style": "chalk"
+      "style": "chalk",
+      "aliases": [
+        "inchworm",
+        "caterpillar"
+      ]
     },
     {
       "name": "grit",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A pixel tardigrade — magenta snout-tube accent; the character for resilience, fault tolerance, and outages. Has survived worse and does not bring it up.",
-      "style": "pixel"
+      "style": "pixel",
+      "aliases": [
+        "tardigrade",
+        "water-bear",
+        "moss-piglet"
+      ]
     },
     {
       "name": "heft",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A stout ball-rolling beetle — vermilion pusher pads on its front feet; the character for tech debt, the big slow refactor, and moving loads bigger than itself.",
-      "style": "woodcut"
+      "style": "woodcut",
+      "aliases": [
+        "beetle",
+        "dung-beetle",
+        "scarab"
+      ]
     },
     {
       "name": "lure",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A deep-sea anglerfish in glowing CRT trace — amber lure-bead accent; the character for search and retrieval, log grepping, and the one match rising out of the dark.",
-      "style": "phosphor"
+      "style": "phosphor",
+      "aliases": [
+        "anglerfish",
+        "fish"
+      ]
     },
     {
       "name": "squall",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A small storm cloud with one zigzag bolt-tail accent — the character for incidents, outages, war rooms, and postmortems; it IS the storm being weathered.",
-      "style": "chalk"
+      "style": "chalk",
+      "aliases": [
+        "cloud",
+        "storm-cloud",
+        "thundercloud",
+        "storm"
+      ]
     },
     {
       "name": "berg",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A small iceberg — orange peak-cap accent above the dashed waterline; the character for estimates, hidden complexity, and the nine-tenths of the project the ticket didn't mention.",
-      "style": "blueprint"
+      "style": "blueprint",
+      "aliases": [
+        "iceberg",
+        "ice"
+      ]
     },
     {
       "name": "clam",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A smooth closed clam on stub feet — tomato hinge-knob accent; the character for encapsulation, API design, and clean interfaces: simple outside, busy inside.",
-      "style": "gouache"
+      "style": "gouache",
+      "aliases": [
+        "shellfish",
+        "mollusk"
+      ]
     },
     {
       "name": "yoke",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A placid zebu ox — orange shoulder-hump accent; the character for automation, delegation, cron jobs, and agents: hitch it to the work, walk away, it finishes.",
-      "style": "blueprint"
+      "style": "blueprint",
+      "aliases": [
+        "ox",
+        "zebu",
+        "oxen",
+        "cattle"
+      ]
     },
     {
       "name": "tug",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A glossy red horseshoe magnet with bare-steel tips — the character for dependencies, lockfiles, and the install that drags half the internet along.",
-      "style": "enamel"
+      "style": "enamel",
+      "aliases": [
+        "magnet",
+        "horseshoe-magnet"
+      ]
     },
     {
       "name": "patch",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A fat roll of tape — lifted red tab accent; the character for hotfixes, workarounds, and duct-tape engineering that holds the seam until the real fix ships.",
-      "style": "manila"
+      "style": "manila",
+      "aliases": [
+        "tape",
+        "duct-tape"
+      ]
     },
     {
       "name": "scrub",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A beveled eraser wedge — scuffed coral working-edge accent; the character for deleting dead code, paying down tech debt, and anything that no longer needs to exist.",
-      "style": "clay"
+      "style": "clay",
+      "aliases": [
+        "eraser",
+        "rubber"
+      ]
     },
     {
       "name": "sift",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A footed colander — rolled-rim accent band, dot-holes that ARE pixels; the character for filtering and triage: signal vs noise, alert fatigue, letting the unimportant fall through.",
-      "style": "pixel"
+      "style": "pixel",
+      "aliases": [
+        "colander",
+        "sieve",
+        "strainer"
+      ]
     },
     {
       "name": "nona",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A plain wooden nesting doll — vermilion seam accent; the character for releases, versioning, changelogs, and semver: every version she ships still carries the one before it.",
-      "style": "woodcut"
+      "style": "woodcut",
+      "aliases": [
+        "nesting-doll",
+        "matryoshka",
+        "russian-doll",
+        "doll"
+      ]
     },
     {
       "name": "stoke",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A vacuum tube on a socket puck — warm amber filament-glow core accent; the character for caching and warm starts: cache hits, memoization, cold starts, and warm pools.",
-      "style": "phosphor"
+      "style": "phosphor",
+      "aliases": [
+        "vacuum-tube",
+        "tube",
+        "valve"
+      ]
     },
     {
       "name": "clack",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "An upright blank domino tile — painted center seam accent; the character for cascading failures, chain reactions, and stopping the topple one tile short of the database.",
-      "style": "chalk"
+      "style": "chalk",
+      "aliases": [
+        "domino",
+        "domino-tile"
+      ]
     },
     {
       "name": "dice",
       "author": "Trevin Chow",
       "version": "1.0.0",
       "description": "A plump one-pip die — top-face pip accent; the character for chance and nondeterminism: flaky tests, A/B experiments, risky rollouts, and \"roll the dice\" decisions.",
-      "style": "pixel"
+      "style": "pixel",
+      "aliases": [
+        "die"
+      ]
     },
     {
       "name": "bray",
       "author": "Matt Van Horn",
       "version": "1.0.0",
       "description": "A small donkey bent from one continuous loop of craft wire — accent tail-tip tuft; the patient pack animal for hauling loads, batch jobs, and slow steady throughput.",
-      "style": "riso"
+      "style": "riso",
+      "aliases": [
+        "donkey",
+        "mule",
+        "burro"
+      ]
     }
   ]
 }

@@ -6,6 +6,7 @@ stands very still so the chain reaction never starts.
 Credit: **Clack by Trevin Chow**.
 
 Style: **chalk**
+Aliases: domino, domino-tile
 
 ## Locked design
 

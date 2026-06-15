@@ -6,6 +6,7 @@ on a thin stem growing from its head. The name reads off the design.
 Credit: **Sprout by Trevin Chow**.
 
 Style: **riso**
+Aliases: seed, seedling
 
 ## Locked design
 
