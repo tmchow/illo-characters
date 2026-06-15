@@ -7,6 +7,7 @@ busy stays inside.
 Credit: **Clam by Trevin Chow**.
 
 Style: **gouache**
+Aliases: shellfish, mollusk
 
 ## Locked design
 

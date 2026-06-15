@@ -9,7 +9,10 @@ A **pack** is one folder, `packs/<name>/`, holding exactly:
 - `character.md` — the spec. Required sections: `## Locked design`,
   `## Prompt spec` (one blockquoted paragraph for illo's CHARACTER prompt
   slot), `## Value rules`. Recommended: `## Personality` and a
-  `Credit: **<Name> by <author>**` line near the top.
+  `Credit: **<Name> by <author>**` line near the top. Optional `Aliases:`
+  line (comma-separated subject synonyms — `Aliases: ox, zebu`) so users can
+  say "use ox" for a pack named `yoke`; add it when the name doesn't read
+  off the subject.
 - `reference.png` — the model sheet: one clean, front-facing, full-body
   render on plain paper. This is what the skill passes as `--ref`.
 - `preview.png` — one *scene* render where the character performs an idea
@@ -28,15 +31,18 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    the whole ecosystem — this repo's `index.json` is the registry. Reserved
    (never pack names): `blot` (ships with the skill), `illo`, and the look
    names (`riso`, `blueprint`, `woodcut`, `pixel`, `clay`, `manila`,
-   `chalk`, `phosphor`, `enamel`, `gouache`). CI enforces both rules. Only
+   `chalk`, `phosphor`, `enamel`, `gouache`). **Aliases share this
+   namespace** — an alias must not equal any pack name, alias, or reserved
+   name. CI enforces all of these. Only
    `.md`/`.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB and a **real
    PNG** (image models often return JPEG bytes regardless of filename —
    check with `file`, convert with `sips -s format png in --out out.png` on
    macOS or `magick in out.png`).
 2. **`index.json`** — append `{"name", "author", "version", "description",
-   "style"}` (style = the pack's look, matching the `Style:` line).
-   This is the machine catalog the skill's `packs list` reads; a pack absent
-   here is invisible to installers.
+   "style"}` (style = the pack's look, matching the `Style:` line), plus an
+   optional `aliases` array mirroring the `Aliases:` line. This is the
+   machine catalog the skill's `packs list` reads; a pack absent here is
+   invisible to installers.
 3. **Root `README.md` catalog table** — add a row with a thumbnail of the
    model sheet: `<img src="packs/<name>/reference.png" width="160">`, the
    author, and a one-line description. This is the human storefront — the

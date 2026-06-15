@@ -6,6 +6,7 @@ that covers a journey one verified body-length at a time.
 Credit: **Inch by Trevin Chow**.
 
 Style: **chalk**
+Aliases: inchworm, caterpillar
 
 ## Locked design
 

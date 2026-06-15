@@ -6,6 +6,7 @@ street furniture there is: it stands somewhere inconvenient and won't move.
 Credit: **Cone by Trevin Chow**.
 
 Style: **riso**
+Aliases: traffic-cone, pylon
 
 ## Locked design
 

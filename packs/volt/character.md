@@ -6,6 +6,7 @@ waiting to be useful.
 Credit: **Volt by Trevin Chow**.
 
 Style: **pixel**
+Aliases: battery, cell
 
 ## Locked design
 

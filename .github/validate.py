@@ -18,6 +18,7 @@ RESERVED = {"blot", "illo"} | LOOKS
 KEBAB = re.compile(r"[a-z0-9]+(-[a-z0-9]+)*")
 SEMVER = re.compile(r"\d+\.\d+\.\d+")
 STYLE_RE = re.compile(r"^Style:\s*\**([a-z0-9-]+)\**\s*$", re.M)
+ALIASES_RE = re.compile(r"^Aliases:\s*(.+)$", re.M)
 MAX_MD = 16 * 1024
 MAX_PNG = 3 * 1024 * 1024
 MAX_DESC = 200
@@ -46,6 +47,7 @@ if not packs:
 
 readme = (ROOT / "README.md").read_text(encoding="utf-8") if (ROOT / "README.md").is_file() else ""
 declared_styles = {}
+declared_aliases = {}
 
 for d in packs:
     name = d.name
@@ -75,6 +77,9 @@ for d in packs:
             errors.append(f"{name}: character.md missing a 'Style: <look>' line")
         else:
             declared_styles[name] = m.group(1)
+        am = ALIASES_RE.search(text)
+        if am:
+            declared_aliases[name] = [a.strip() for a in am.group(1).split(",") if a.strip()]
         spec = section(text, "## Prompt spec")
         if spec and not re.search(r"^\s*>", spec, re.M):
             errors.append(f"{name}: '## Prompt spec' has no blockquoted paragraph "
@@ -95,6 +100,7 @@ for d in packs:
             if w and h and min(w, h) < MIN_PX:
                 errors.append(f"{name}: {png.name} is {w}x{h} — short side under {MIN_PX}px")
 
+idx_aliases = {}
 try:
     idx = json.loads((ROOT / "index.json").read_text(encoding="utf-8"))
     entries = idx["packs"]
@@ -126,8 +132,34 @@ try:
         if style and pname in declared_styles and declared_styles[pname] != style:
             errors.append(f"index.json: {pname}: style {style!r} != character.md "
                           f"Style line {declared_styles[pname]!r}")
+        if "aliases" in p:
+            if not isinstance(p["aliases"], list) or not all(isinstance(a, str) for a in p["aliases"]):
+                errors.append(f"index.json: {pname}: aliases must be a list of strings")
+            else:
+                idx_aliases[pname] = p["aliases"]
 except Exception as e:  # malformed JSON, missing file, wrong shape
     errors.append(f"index.json: {e}")
+
+# Aliases are selection keys like the pack name ("use ox" -> yoke), so they are
+# validated like names: lowercase kebab-case, not reserved, globally unique, and
+# never a pack name. The character.md Aliases: line and index.json aliases array
+# must match — packs list reads the index, the installed pack reads character.md.
+pack_names = {d.name for d in packs}
+alias_owner = {}  # alias -> first pack that claimed it
+for name in sorted(set(declared_aliases) | set(idx_aliases)):
+    md_a, ix_a = declared_aliases.get(name, []), idx_aliases.get(name, [])
+    if set(md_a) != set(ix_a):
+        errors.append(f"{name}: character.md Aliases {md_a} != index.json aliases {ix_a}")
+    for a in dict.fromkeys(md_a + ix_a):  # ordered union
+        if not KEBAB.fullmatch(a):
+            errors.append(f"{name}: alias {a!r} is not lowercase kebab-case")
+        if a in RESERVED:
+            errors.append(f"{name}: alias {a!r} is reserved (shipped character or look name)")
+        if a in pack_names:
+            errors.append(f"{name}: alias {a!r} collides with a pack name")
+        if a in alias_owner and alias_owner[a] != name:
+            errors.append(f"{name}: alias {a!r} already claimed by {alias_owner[a]}")
+        alias_owner.setdefault(a, name)
 
 if errors:
     print("\n".join(f"FAIL: {e}" for e in errors))

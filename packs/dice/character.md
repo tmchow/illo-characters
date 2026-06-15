@@ -7,6 +7,7 @@ either way.
 Credit: **Dice by Trevin Chow**.
 
 Style: **pixel**
+Aliases: die
 
 ## Locked design
 

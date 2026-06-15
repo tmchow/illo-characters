@@ -3,6 +3,7 @@
 A small donkey bent entirely from one continuous loop of craft wire — the name reads off the bray of a donkey, the patient pack animal that hauls the load.
 
 Style: **riso**
+Aliases: donkey, mule, burro
 
 Credit: Matt Van Horn (@mvanhorn)
 

@@ -6,6 +6,7 @@ light, and the whole character is one idea, lit.
 Credit: **Lumen by Trevin Chow**.
 
 Style: **blueprint**
+Aliases: light-bulb, lightbulb, bulb
 
 ## Locked design
 
