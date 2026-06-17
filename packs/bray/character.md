@@ -25,4 +25,6 @@ Credit: Matt Van Horn (@mvanhorn)
 
 ## Personality
 
-An earnest, low-key pack animal doing something slightly absurd with a straight face — patient, unbothered, competent. Calm and deadpan, never zany or cute-for-cute's-sake. Bray hauls the load and does not complain about it.
+Carries the load and never complains — slow, patient, and impossible to
+discourage. Good for steady hauling, getting through a long list, and batch
+work and steady throughput.

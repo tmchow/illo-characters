@@ -60,7 +60,5 @@ palette mapping):
 
 ## Personality
 
-The cascade's quiet firebreak — stands very still so everything else falls
-in order. The character for chain reactions, cascading failures, dependency
-chains, rollouts and migrations where one change triggers many, and being
-the first domino that decides not to go.
+Perfectly still until it isn't — one tip and the whole line goes. Good for
+chain reactions and consequences, tipping points, and cascading failures.

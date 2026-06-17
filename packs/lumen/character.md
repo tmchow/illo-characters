@@ -38,6 +38,6 @@ Aliases: light-bulb, lightbulb, bulb
 
 ## Personality
 
-The quiet idea that turns out to be load-bearing. Calm, switched-on,
-deadpan — never a eureka cliché. The character for plans, insights, and
-how-it-works pieces.
+The quiet idea that turns out to be load-bearing — calm, switched-on,
+deadpan, never a eureka cliché. Good for the moment it clicks, clarity,
+plans and insights, and how-it-works pieces.

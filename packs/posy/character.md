@@ -43,5 +43,5 @@ Aliases: flower, blossom
 
 ## Personality
 
-A sweet, unhurried early riser — opens up to greet the day and closes up to
-rest. Gentle, never saccharine; the unfurling carries the idea.
+Just starting to open up — sunny, fresh, glad it's morning. Good for fresh
+starts and beginnings, good mornings, and onboarding.

@@ -48,5 +48,5 @@ Aliases: dumpling, bao
 
 ## Personality
 
-An earnest, fresh-out-of-the-steamer optimist — pleased to be here and ready
-to be useful. Warm and deadpan-content; the peeking-out is the move.
+Fresh out and ready to serve — warm, generous, best right now. Good for
+freshness and good timing, hot-off-the-line, and new releases.

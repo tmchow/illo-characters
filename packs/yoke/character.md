@@ -59,9 +59,6 @@ style's palette mapping):
 
 ## Personality
 
-Placid and inexhaustible. Asks nothing, reports nothing, finishes
-everything; finds the human urge to supervise puzzling but tolerates
-spectators. The deadpan of a machine that happens to be warm-blooded — the
-character for automation, delegation, cron jobs, agents, and pipelines:
-anything you hitch to a task and trust to run unattended. Yoke starts when
-hitched, stops when done, and never needs watching.
+Placid and tireless — hitch it to the work, walk away, and it just finishes.
+Good for steady reliable effort that needs no minding, and delegation and
+automation.

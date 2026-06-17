@@ -46,5 +46,6 @@ Aliases: owl, owlet
 
 ## Personality
 
-A quiet, watchful keeper — swivels to notice what others miss and holds the
-night shift without fuss. Deadpan-calm; the watching is the point.
+Wide-eyed and watchful — notices what everyone else scrolled past. Good for
+attention and the night watch, careful noticing, and observability and code
+review.

@@ -62,7 +62,5 @@ accent (see the style's palette mapping):
 
 ## Personality
 
-The house fatalist — accepts every outcome as the one it predicted, and is
-never surprised when the re-run lands the other way. The character for
-chance and nondeterminism: flaky tests, A/B experiments, bets and risky
-rollouts, RNG, LLM output variance, and every "roll the dice" decision.
+Noncommittal by nature — leaves it to chance and lets the result speak. Good
+for luck and risk, you-never-know moments, and flaky tests.

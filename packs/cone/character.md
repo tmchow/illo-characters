@@ -41,5 +41,6 @@ ONLY character and that the other objects have no faces.
 
 ## Personality
 
-The immovable object, deadpan about it. Cone doesn't cause problems — it
-*marks* them, by standing exactly where the problem is.
+Polite but immovable — it isn't sorry, exactly, it's just not letting you
+through yet. Good for caution and hold-ups, work-in-progress, blockers, and
+"slow down a second."

@@ -49,6 +49,6 @@ Manila maps the riso value rules natively:
 
 ## Personality
 
-The deadpan gatekeeper of done — patient in the queue, decisive at the
-moment of pressing. The character for approvals, sign-off, LGTM, QA gates,
-shipping criteria, and gentle bureaucracy humor.
+Decisive and a little ceremonial — one firm press and it's settled. Good for
+making it official, approvals and sign-off, and the decision that finally
+lets things move.

@@ -70,8 +70,6 @@ mapping):
 
 ## Personality
 
-The interface — shows the world one seam and nothing else. Unbothered by
-whatever is erupting inside; the lid stays down and the surface stays
-simple. The character for encapsulation and clean interfaces: API design,
-abstraction boundaries, information hiding, "simple outside, busy inside" —
-boss guards against attackers; clam decides what gets exposed, by design.
+Calm on the outside, plenty going on within — composed, private, unbothered.
+Good for keeping the busy work tucked away, and encapsulation and clean
+APIs.

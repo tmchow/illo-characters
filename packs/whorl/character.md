@@ -54,7 +54,6 @@ Aliases: snail
 
 ## Personality
 
-Calm, patient, unhurried. Whorl carries every saved layer on its back, the
-newest disc resting just beneath the spire — the character for backups,
-snapshots, and restore points. It never rushes; the stack is the whole record,
-and it always has a copy.
+Calm, patient, and never in a hurry — carries every saved layer on its back,
+newest on top. Good for memory and keeping your history, never losing what
+matters, and backups and snapshots.
