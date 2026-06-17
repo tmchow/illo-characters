@@ -48,6 +48,9 @@ default, or switch per run.
 | [`plume`](packs/plume/) | <img src="packs/plume/preview.png" width="280"> | felt | Trevin Chow | A plump baby owl of layered felt feathers — accent V-beak. Watching, noticing, keeping the night-shift. _aka `owl`, `owlet`._ ([model sheet](packs/plume/reference.png)) |
 | [`posy`](packs/posy/) | <img src="packs/posy/preview.png" width="280"> | felt | Trevin Chow | A round flower-bud creature in layered felt petals — a tiny ladybug accent. Fresh starts and opening up. _aka `flower`, `blossom`._ ([model sheet](packs/posy/reference.png)) |
 | [`pleat`](packs/pleat/) | <img src="packs/pleat/preview.png" width="280"> | felt | Trevin Chow | A plump felt soup dumpling with one gathered pleat-knot — chili-dab accent. Fresh out, ready to serve. _aka `dumpling`, `bao`._ ([model sheet](packs/pleat/reference.png)) |
+| [`wick`](packs/wick/) | <img src="packs/wick/preview.png" width="280"> | diorama | Trevin Chow | A tall spindly lamplighter creature with a glass-lantern chest — chest-flame accent. On-call, uptime, keeping the lights on. _aka `lamplighter`, `lantern`._ ([model sheet](packs/wick/reference.png)) |
+| [`spritz`](packs/spritz/) | <img src="packs/spritz/preview.png" width="280"> | diorama | Trevin Chow | A round pot-bellied watering can — sprinkler-rose accent. Provisioning, deploying to new environments, spinning things up. _aka `watering-can`, `can`._ ([model sheet](packs/spritz/reference.png)) |
+| [`whorl`](packs/whorl/) | <img src="packs/whorl/preview.png" width="280"> | diorama | Trevin Chow | A soft snail carrying a tower of stacked faceted-stone discs — spire-tip accent. Backups, snapshots, restore points. _aka `snail`._ ([model sheet](packs/whorl/reference.png)) |
 
 ## Installing a pack
 

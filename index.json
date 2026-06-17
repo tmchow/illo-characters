@@ -384,6 +384,38 @@
         "dumpling",
         "bao"
       ]
+    },
+    {
+      "name": "wick",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A tall spindly lamplighter creature with a glass-lantern chest — the chest flame is the accent; the character for on-call, uptime, and keeping the lights on.",
+      "style": "diorama",
+      "aliases": [
+        "lamplighter",
+        "lantern"
+      ]
+    },
+    {
+      "name": "spritz",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A round pot-bellied watering can — accent sprinkler-rose spout; the character for provisioning, deploying to new environments, and spinning things up.",
+      "style": "diorama",
+      "aliases": [
+        "watering-can",
+        "can"
+      ]
+    },
+    {
+      "name": "whorl",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A soft snail carrying a tower of stacked faceted-stone discs — accent spire tip; the character for backups, snapshots, and restore points.",
+      "style": "diorama",
+      "aliases": [
+        "snail"
+      ]
     }
   ]
 }
