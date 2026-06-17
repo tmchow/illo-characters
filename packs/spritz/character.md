@@ -46,7 +46,6 @@ Aliases: watering-can, can
 
 ## Personality
 
-Cheerful and dutiful. Spritz shows up at every fresh bed and gives each new
-seedling exactly what it needs to start — the character for provisioning,
-deploying to new environments, and spinning things up. Earnest, never zany;
-the watering carries the idea.
+Cheerful and dutiful — shows up for whatever's just starting and gives it
+exactly what it needs. Good for nurture and fresh starts, a little care
+daily, and provisioning and onboarding.

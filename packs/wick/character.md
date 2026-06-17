@@ -51,7 +51,6 @@ Aliases: lamplighter, lantern
 
 ## Personality
 
-Slow, formal, a little ceremonial. Wick tends the lights at dusk and keeps
-them burning through the night — the character for on-call, uptime, and
-keeping the lights on. It never hurries and never makes a show of the work;
-the lit flame is the whole statement.
+Slow, formal, a little ceremonial — tends the flame and keeps the dark at
+bay without ever making a show of it. Good for keeping watch, lighting the
+way, and warmth through a long night — and for on-call and uptime.

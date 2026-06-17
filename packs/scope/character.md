@@ -49,6 +49,6 @@ value rules collapse to one treatment:
 
 ## Personality
 
-The calm lookout — first to spot the spike, points at it without panic. The
-character for observability, monitoring, dashboards-without-the-dashboard,
-on-call, incidents, and scope-creep jokes.
+Always got an eye on something — watchful, unflappable, a little nosy. Good
+for keeping watch and noticing, perspective, and observability, monitoring,
+and scope creep.

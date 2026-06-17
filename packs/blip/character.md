@@ -40,5 +40,6 @@ Aliases: robot, bot
 
 ## Personality
 
-An earnest, low-key operator doing something slightly absurd with a straight
-face. Calm, deadpan, competent, never zany or cute-for-cute's-sake.
+Deadpan and dependable — beeps, means well, gets it done without drama. The
+original mascot, equally at home standing in for robots, automation, or just
+being reliably present.

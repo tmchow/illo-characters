@@ -57,8 +57,6 @@ Woodcut allows only three values — paper, ink, accent (no midtones):
 
 ## Personality
 
-Assumes everything is liftable, eventually. The character for tech debt and
-heavy lifting: legacy weight, the big slow refactor, rolling the boulder
-uphill, grind work that moves something enormous a little every day. Pip
-carries small parcels for others; Heft moves loads bigger than itself, one
-shove at a time, with no opinion about how long it takes.
+Puts its whole self into loads bigger than itself — slow, dogged, faintly
+heroic. Good for hard slow work, the long push, and tech debt and the big
+refactor.

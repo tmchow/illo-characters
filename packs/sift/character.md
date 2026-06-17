@@ -62,7 +62,5 @@ accent — see the style's palette mapping); sift maps onto them like this:
 
 ## Personality
 
-The triage desk that never panics — lets almost everything go, keeps
-exactly what matters, and feels no need to explain the ratio. The character
-for filtering and triage: signal vs noise, alert fatigue, inbox zero,
-"most of this doesn't matter — these three do."
+Unsentimental and sure-handed — keeps what matters and lets the rest fall
+through. Good for focus and filtering, and triage, signal vs. noise.

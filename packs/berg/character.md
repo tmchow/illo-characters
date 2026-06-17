@@ -69,9 +69,6 @@ mapping):
 
 ## Personality
 
-Perfectly comfortable being judged by its tip. Berg owns hidden complexity
-and underestimation — estimates, "tip of the iceberg" scope, the invisible
-bulk of any project, what the ticket didn't say. Mole digs for the one
-root cause; berg simply *is* the nine-tenths nobody scoped. It never
-mentions how much of it you can't see. It just keeps holding everything
-up.
+Calm on top, with a great deal more underneath that it doesn't advertise.
+Good for hidden depth, the part you can't see yet, and estimates and hidden
+complexity.

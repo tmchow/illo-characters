@@ -47,6 +47,5 @@ collapse to one treatment:
 
 ## Personality
 
-The walking deadline — never hurried, never late, always quietly running
-out. The character for timeboxes, estimates, scheduling, waiting on CI,
-countdowns, and "where the time went" pieces.
+Watches the sand go with serene resignation. Good for the passage of time,
+patience, deadlines and timeboxes, and noticing where the time went.

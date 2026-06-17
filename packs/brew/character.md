@@ -57,5 +57,5 @@ mapping):
 ## Personality
 
 The patient deep worker — stands under the slow drip and lets it steep, no
-fuss, no steam. The character for focus, mornings, breaks, productivity,
-percolating ideas, and builds brewing.
+fuss, no steam. Good for focus and warmth, giving things time, and deep work
+and builds brewing.

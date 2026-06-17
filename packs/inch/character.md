@@ -60,9 +60,5 @@ palette mapping):
 
 ## Personality
 
-The incrementalist — measures the whole journey in body-lengths and never
-rounds up. Calm, exact, already two ticks further than the estimate
-admitted was possible. The character for incremental progress: step-by-step
-migrations, milestones, "how far along are we", covering distance one
-verified body-length at a time. Sprout owns things growing and lapse owns
-time running out; inch owns distance covered.
+Unhurried and undeterred — one small step, then the next, then the next.
+Good for steady progress, patience, and incremental work and migrations.

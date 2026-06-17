@@ -56,6 +56,6 @@ section is the rule).
 
 ## Personality
 
-The unbothered last line — plants its feet, takes the hit, asks if that's
-all. The character for security, guarding prod, defense-in-depth, hard
-challenges, and boss fights.
+Steady and immovable — nothing gets past it, and it doesn't gloat about
+that. Good for protection, standing guard, holding the line, and security
+and guarding prod.

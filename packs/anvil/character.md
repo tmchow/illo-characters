@@ -35,6 +35,6 @@ Style: **woodcut**
 
 ## Personality
 
-The immovable surface where work gets shaped. Takes every blow without
-flinching, deadpan. The character for hard feedback, durability, and where
+Unmoved and unbothered — it takes the blows and stays exactly where it is.
+Good for hard truths that make you better, durability, and the work where
 things get hammered out.

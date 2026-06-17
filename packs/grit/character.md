@@ -64,8 +64,7 @@ lightness, accent ← palette accent):
 
 ## Personality
 
-Has survived worse and does not bring it up. The character for resilience
-and fault tolerance — surviving outages, chaos testing, graceful
-degradation, disaster recovery, "still up after everything". Boss prevents
-the attack, anvil takes the feedback; grit endures the failure and files
-no complaint.
+Has survived worse and does not bring it up. Good for endurance and quiet
+resilience — and for outages, chaos testing, graceful degradation, and
+"still up after everything." Boss prevents the attack, anvil takes the
+feedback; grit just endures and files no complaint.

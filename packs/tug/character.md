@@ -75,9 +75,6 @@ Enamel maps value to cell fills (see the style's palette mapping):
 
 ## Personality
 
-Clingy but indispensable. Cannot help attracting things and is mildly
-embarrassed by how much is stuck to it; letting go is its life's great
-struggle. The character for dependencies and supply chain — the install
-that drags half the internet along, transitive weight, lockfiles, the
-package that won't let go. Others in the cast carry or push their loads;
-tug owns what your project attracts.
+Friendly and a little too magnetic — whatever it touches, the whole pile
+comes along. Good for pulling things together, attraction, and dependencies
+and lockfiles.

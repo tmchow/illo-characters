@@ -55,7 +55,6 @@ Clay maps value to material color (see the style's palette mapping):
 
 ## Personality
 
-The unsentimental remover — no ceremony for anything that no longer needs
-to exist. The character for cleanup and removal: refactoring, deleting dead
-code, paying down tech debt, tidying after a launch, unsubscribing,
-decluttering — any story about making something smaller and cleaner.
+Quietly satisfying — clears away what's finished and leaves things lighter.
+Good for tidying and letting go, making it like it never was, and deleting
+dead code.

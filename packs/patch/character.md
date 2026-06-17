@@ -61,8 +61,6 @@ Manila maps value to stampings (see the style's palette mapping):
 
 ## Personality
 
-Knows it's temporary; sticks anyway. Patch never claims to be the real fix
-— it files itself under "stopgap", plants its feet, and holds the seam
-shut for as long as it takes, which is usually forever. The character for
-hotfixes, workarounds, duct-tape engineering, and everything that ships
-with a TODO attached.
+Resourceful and unbothered by appearances — holds the seam until the real
+fix arrives. Good for good-enough-for-now, buying time, and hotfixes and
+workarounds.

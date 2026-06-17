@@ -60,9 +60,6 @@ style's palette mapping):
 
 ## Personality
 
-Infinitely patient. Hangs motionless in the black, holding its light
-perfectly steady, certain the right result will rise to it eventually —
-never chases, waits. The character for search and retrieval: codebase
-search, log grepping, semantic lookup, drawing the one needle out of a
-vast dark haystack. (Sift filters what comes in; Lure hunts one specific
-thing in the dark.)
+Patient in the dark, then certain — the one answer rises and it doesn't
+blink. Good for searching and discovery, the needle in the haystack, and
+retrieval.

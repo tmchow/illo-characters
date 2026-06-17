@@ -47,5 +47,5 @@ Aliases: hedgehog, porcupine
 ## Personality
 
 A calm, earnest little forager — content to curl around whatever matters and
-keep it safe. Never zany; the move carries the idea, the face just quietly
-approves.
+keep it safe. Never zany; good for protecting and guarding, and keeping the
+precious thing out of harm's way.

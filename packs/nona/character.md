@@ -59,9 +59,6 @@ Woodcut allows no midtones — every area is paper, carving ink, or accent
 
 ## Personality
 
-Ceremonious and quietly proud. Keeps every prior self in mint condition,
-ordered, dated. Opens at the seam only on release day. Believes a version
-unaccompanied by its history is just a rumor. The character for releases,
-versioning, changelogs, and semver — each version contains its whole
-lineage, and cutting a release means lifting the past out where everyone
-can see it.
+Carries every version of herself inside, the newest holding all the rest.
+Good for history and layers, honoring what came before, and releases and
+versioning.

@@ -49,6 +49,6 @@ Clay maps value to material color (see the style's palette mapping):
 
 ## Personality
 
-The methodical digger — unhurried, thorough, already three layers down while
-everyone else is staring at the wilted plant. The character for debugging,
-root-cause analysis, investigation, going deep, and excavating legacy code.
+The methodical digger — unhurried and thorough, already three layers down
+while everyone else stares at the wilted plant. Good for getting to the
+root, going deep, investigation, and debugging.

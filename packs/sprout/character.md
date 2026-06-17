@@ -36,6 +36,5 @@ Aliases: seed, seedling
 
 ## Personality
 
-A patient gardener of small things — tends, waters, waits, deadpan. The
-character for growth, compounding, and anything that gets bigger one small
-effort at a time.
+Small now, but not for long — earnest and quietly optimistic. Good for
+growth and beginnings, the payoff of small daily effort, and compounding.

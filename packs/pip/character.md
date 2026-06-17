@@ -36,5 +36,6 @@ Aliases: bird, chick
 
 ## Personality
 
-A small, brisk courier doing one small thing at a time with a straight face.
-Never frantic, never chirpy-cute — just quietly relentless.
+Little, earnest, and always on time. It doesn't carry much at once, but it
+never misses a trip — good for couriers and small deliveries, quiet
+persistence, and shipping small and often.

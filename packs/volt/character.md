@@ -39,6 +39,5 @@ Aliases: battery, cell
 
 ## Personality
 
-The steady power source — plugs in, gives charge, asks for nothing. Calm,
-dependable, deadpan. The character for energy, capacity, burnout and
-recharge, and retro-tech pieces.
+Charged, eager, and a little impatient to go. Good for energy and momentum,
+the rest-then-go rhythm, capacity, and recharge.

@@ -52,6 +52,6 @@ Style: **riso**
 
 ## Personality
 
-An earnest, calm, deadpan coach — competent and gently insistent. She gets
-you warmed up, moving, and into healthy habits. The idea is carried by the
-move she performs, never by an expression.
+Warm, upbeat, and quietly relentless — always good for one more rep. Good
+for healthy habits, warm-ups and routines, encouragement, and anything that
+keeps you moving.

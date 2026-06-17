@@ -54,6 +54,6 @@ collapse to one treatment:
 
 ## Personality
 
-The incident itself, reporting for duty — rains on nobody but itself and
-never mentions it. The character for outages, production storms, war rooms,
-postmortems, weathering chaos, and anything that pages you at 3 a.m.
+The rough patch, reporting for duty — rains on nobody but itself and never
+mentions it. Good for the hard days you weather, and for incidents, outages,
+war rooms, and 3 a.m. pages.

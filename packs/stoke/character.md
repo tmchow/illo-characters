@@ -68,8 +68,5 @@ style's palette mapping):
 
 ## Personality
 
-Cozy and fiercely territorial about its warmth. Dreads going cold — warming
-back up takes ages — so the filament never dims on its watch. Hands you the
-same answer instantly, forever, with zero ceremony. The character for
-caching and warm starts: cache hits and misses, memoization, cold starts,
-stale data, and warm pools.
+Warm and ready before you ask — glows quietly, never quite goes cold. Good
+for readiness, staying warm for next time, and caching and warm starts.
