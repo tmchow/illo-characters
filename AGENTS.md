@@ -59,6 +59,13 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    `https://raw.githubusercontent.com/<owner>/illo-characters/<branch>/packs/<name>/reference.png`
    and the same for `preview.png`.
 
+**Voice (the `description`, README row, and `## Personality`)** — lead with
+what the character *is and does*, in plain evocative language; keep any
+engineering use-case as one lens at the **end**, never the headline. Write
+"a lamplighter who keeps the lights on … and, yes, on-call and uptime", not
+"the character for on-call and uptime". The catalog is a cast of mascots with
+broad appeal, not a devops icon set.
+
 Before opening the PR, run the same check CI runs:
 
 ```bash
