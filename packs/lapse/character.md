@@ -6,6 +6,7 @@ task is still open.
 Credit: **Lapse by Trevin Chow**.
 
 Style: **chalk**
+Cutout chroma: **magenta**
 Aliases: hourglass, sandglass, egg-timer
 
 ## Locked design

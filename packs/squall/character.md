@@ -6,6 +6,7 @@ brings — the short, violent storm every production system eventually meets.
 Credit: **Squall by Trevin Chow**.
 
 Style: **chalk**
+Cutout chroma: **magenta**
 Aliases: cloud, storm-cloud, thundercloud, storm
 
 ## Locked design

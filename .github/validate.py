@@ -20,6 +20,8 @@ KEBAB = re.compile(r"[a-z0-9]+(-[a-z0-9]+)*")
 SEMVER = re.compile(r"\d+\.\d+\.\d+")
 STYLE_RE = re.compile(r"^Style:\s*\**([a-z0-9-]+)\**\s*$", re.M)
 ALIASES_RE = re.compile(r"^Aliases:\s*(.+)$", re.M)
+CUTOUT_CHROMA_RE = re.compile(r"^Cutout chroma:\s*\*?\*?(green|magenta)\*?\*?\s*$", re.M | re.I)
+CUTOUT_CHROMA_VALUES = {"green", "magenta"}
 MAX_MD = 16 * 1024
 MAX_PNG = 3 * 1024 * 1024
 MAX_DESC = 200
@@ -49,6 +51,7 @@ if not packs:
 readme = (ROOT / "README.md").read_text(encoding="utf-8") if (ROOT / "README.md").is_file() else ""
 declared_styles = {}
 declared_aliases = {}
+declared_cutout_chroma = {}
 
 for d in packs:
     name = d.name
@@ -78,6 +81,11 @@ for d in packs:
             errors.append(f"{name}: character.md missing a 'Style: <look>' line")
         else:
             declared_styles[name] = m.group(1)
+        cm = CUTOUT_CHROMA_RE.search(text)
+        if not cm:
+            errors.append(f"{name}: character.md missing a 'Cutout chroma: green|magenta' line")
+        else:
+            declared_cutout_chroma[name] = cm.group(1).lower()
         am = ALIASES_RE.search(text)
         if am:
             declared_aliases[name] = [a.strip() for a in am.group(1).split(",") if a.strip()]
@@ -115,9 +123,15 @@ try:
         errors.append("index.json: duplicate pack names")
     for p in entries:
         pname = p.get("name", "?")
-        for key in ("name", "author", "version", "description", "style"):
+        for key in ("name", "author", "version", "description", "style", "cutout_chroma"):
             if not p.get(key):
                 errors.append(f"index.json: {pname}: missing {key}")
+        chroma = p.get("cutout_chroma")
+        if chroma and chroma not in CUTOUT_CHROMA_VALUES:
+            errors.append(f"index.json: {pname}: cutout_chroma {chroma!r} must be green or magenta")
+        if chroma and pname in declared_cutout_chroma and declared_cutout_chroma[pname] != chroma:
+            errors.append(f"index.json: {pname}: cutout_chroma {chroma!r} != character.md "
+                          f"Cutout chroma line {declared_cutout_chroma[pname]!r}")
         if p.get("version") and not SEMVER.fullmatch(p["version"]):
             errors.append(f"index.json: {pname}: version {p['version']!r} is not semver")
         if p.get("description") and len(p["description"]) > MAX_DESC:

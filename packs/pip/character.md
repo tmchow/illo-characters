@@ -7,6 +7,7 @@ gets on with it.
 Credit: **Pip by Trevin Chow**.
 
 Style: **riso**
+Cutout chroma: **magenta**
 Aliases: bird, chick
 
 ## Locked design

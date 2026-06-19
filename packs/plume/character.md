@@ -6,6 +6,7 @@ design — its body is rows of soft *plumes*.
 Credit: **Plume by Trevin Chow**
 
 Style: **felt**
+Cutout chroma: **magenta**
 Aliases: owl, owlet
 
 ## Locked design

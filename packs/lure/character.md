@@ -7,6 +7,7 @@ result to rise to it.
 Credit: **Lure by Trevin Chow**.
 
 Style: **phosphor**
+Cutout chroma: **magenta**
 Aliases: anglerfish, fish
 
 ## Locked design

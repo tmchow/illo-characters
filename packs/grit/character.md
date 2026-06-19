@@ -7,6 +7,7 @@ when the meteors stop.
 Credit: **Grit by Trevin Chow**.
 
 Style: **pixel**
+Cutout chroma: **magenta**
 Aliases: tardigrade, water-bear, moss-piglet
 
 ## Locked design

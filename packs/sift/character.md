@@ -6,6 +6,7 @@ through its holes and walks away with the few things that matter.
 Credit: **Sift by Trevin Chow**.
 
 Style: **pixel**
+Cutout chroma: **magenta**
 Aliases: colander, sieve, strainer
 
 ## Locked design

@@ -6,6 +6,7 @@ is the weight — heft is what it puts its shoulder into.
 Credit: **Heft by Trevin Chow**.
 
 Style: **woodcut**
+Cutout chroma: **magenta**
 Aliases: beetle, dung-beetle, scarab
 
 ## Locked design

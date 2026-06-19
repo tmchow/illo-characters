@@ -6,6 +6,7 @@ design — its back is a field of *quills*.
 Credit: **Quill by Trevin Chow**
 
 Style: **felt**
+Cutout chroma: **magenta**
 Aliases: hedgehog, porcupine
 
 ## Locked design

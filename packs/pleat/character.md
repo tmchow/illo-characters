@@ -6,6 +6,7 @@ off the design — the *pleat* twist at its top.
 Credit: **Pleat by Trevin Chow**
 
 Style: **felt**
+Cutout chroma: **magenta**
 Aliases: dumpling, bao
 
 ## Locked design

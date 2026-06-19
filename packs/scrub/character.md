@@ -6,6 +6,7 @@ out whatever no longer needs to exist.
 Credit: **Scrub by Trevin Chow**.
 
 Style: **clay**
+Cutout chroma: **magenta**
 Aliases: eraser, rubber
 
 ## Locked design
