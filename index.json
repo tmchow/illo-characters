@@ -4,7 +4,7 @@
       "name": "blip",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A deadpan screen-faced robot, dependable and a little literal \u2014 the original mascot. Robots, automation, and just being reliably present.",
+      "description": "A deadpan screen-faced robot, dependable and a little literal — the original mascot. Robots, automation, and just being reliably present.",
       "style": "riso",
       "aliases": [
         "robot",
@@ -16,7 +16,7 @@
       "name": "pip",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A small round bird, little but always on time. Couriers, small deliveries, quiet persistence \u2014 and shipping small, often.",
+      "description": "A small round bird, little but always on time. Couriers, small deliveries, quiet persistence — and shipping small, often.",
       "style": "riso",
       "aliases": [
         "bird",
@@ -28,7 +28,7 @@
       "name": "cone",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A traffic cone, politely in your way. Caution, hold-ups, not-just-yet \u2014 blockers, WIP, and slowing down a beat.",
+      "description": "A traffic cone, politely in your way. Caution, hold-ups, not-just-yet — blockers, WIP, and slowing down a beat.",
       "style": "riso",
       "aliases": [
         "traffic-cone",
@@ -40,7 +40,7 @@
       "name": "sprout",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A just-sprouted seed, small now but not for long. Growth, beginnings, the payoff of small daily effort \u2014 and compounding.",
+      "description": "A just-sprouted seed, small now but not for long. Growth, beginnings, the payoff of small daily effort — and compounding.",
       "style": "riso",
       "aliases": [
         "seed",
@@ -52,7 +52,7 @@
       "name": "lumen",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A little light bulb \u2014 the moment it clicks. Ideas, clarity, the plan coming together, and how-it-works.",
+      "description": "A little light bulb — the moment it clicks. Ideas, clarity, the plan coming together, and how-it-works.",
       "style": "blueprint",
       "aliases": [
         "light-bulb",
@@ -73,7 +73,7 @@
       "name": "volt",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A battery, charged and ready. Energy, capacity, and the rest-then-go rhythm \u2014 and recharge.",
+      "description": "A battery, charged and ready. Energy, capacity, and the rest-then-go rhythm — and recharge.",
       "style": "pixel",
       "aliases": [
         "battery",
@@ -85,7 +85,7 @@
       "name": "mole",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A plump mole that digs to the bottom of things. Curiosity, getting to the root, going deep \u2014 and debugging.",
+      "description": "A plump mole that digs to the bottom of things. Curiosity, getting to the root, going deep — and debugging.",
       "style": "clay",
       "cutout_chroma": "magenta"
     },
@@ -93,7 +93,7 @@
       "name": "stamp",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A rubber stamp that makes it official. Approval, sign-off, the decision that lets things move \u2014 and shipping gates.",
+      "description": "A rubber stamp that makes it official. Approval, sign-off, the decision that lets things move — and shipping gates.",
       "style": "manila",
       "aliases": [
         "rubber-stamp"
@@ -104,7 +104,7 @@
       "name": "lapse",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An hourglass watching the time slip by. Deadlines, timeboxes, patience \u2014 and where the time went.",
+      "description": "An hourglass watching the time slip by. Deadlines, timeboxes, patience — and where the time went.",
       "style": "chalk",
       "aliases": [
         "hourglass",
@@ -117,7 +117,7 @@
       "name": "scope",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A stout periscope that keeps an eye on things. Watching, noticing, perspective \u2014 observability, monitoring, and scope creep.",
+      "description": "A stout periscope that keeps an eye on things. Watching, noticing, perspective — observability, monitoring, and scope creep.",
       "style": "phosphor",
       "aliases": [
         "periscope"
@@ -128,7 +128,7 @@
       "name": "boss",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A round shield \u2014 nothing gets past it. Protection, standing guard, holding the line \u2014 security and guarding prod.",
+      "description": "A round shield — nothing gets past it. Protection, standing guard, holding the line — security and guarding prod.",
       "style": "enamel",
       "aliases": [
         "shield",
@@ -140,7 +140,7 @@
       "name": "brew",
       "author": "Trevin Chow",
       "version": "1.0.2",
-      "description": "A coffee mug: good things, steeping. Deep work, patience, warmth \u2014 and builds quietly brewing.",
+      "description": "A coffee mug: good things, steeping. Deep work, patience, warmth — and builds quietly brewing.",
       "style": "gouache",
       "aliases": [
         "mug",
@@ -154,7 +154,7 @@
       "name": "inch",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An inchworm taking one small step at a time. Steady progress, patience, slowly getting there \u2014 increments and migrations.",
+      "description": "An inchworm taking one small step at a time. Steady progress, patience, slowly getting there — increments and migrations.",
       "style": "chalk",
       "aliases": [
         "inchworm",
@@ -166,7 +166,7 @@
       "name": "grit",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A tardigrade that survives anything and mentions nothing. Endurance, toughness, quiet resilience \u2014 and fault tolerance.",
+      "description": "A tardigrade that survives anything and mentions nothing. Endurance, toughness, quiet resilience — and fault tolerance.",
       "style": "pixel",
       "aliases": [
         "tardigrade",
@@ -179,7 +179,7 @@
       "name": "heft",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A beetle that moves what's bigger than itself. Hard slow work, persistence, the long push \u2014 and the big refactor.",
+      "description": "A beetle that moves what's bigger than itself. Hard slow work, persistence, the long push — and the big refactor.",
       "style": "woodcut",
       "aliases": [
         "beetle",
@@ -192,7 +192,7 @@
       "name": "lure",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An anglerfish that finds the one in the dark. Searching, discovery, the answer surfacing \u2014 and retrieval.",
+      "description": "An anglerfish that finds the one in the dark. Searching, discovery, the answer surfacing — and retrieval.",
       "style": "phosphor",
       "aliases": [
         "anglerfish",
@@ -204,7 +204,7 @@
       "name": "squall",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A little storm cloud \u2014 the rough patch, weathered. The hard days you get through, and incidents and outages.",
+      "description": "A little storm cloud — the rough patch, weathered. The hard days you get through, and incidents and outages.",
       "style": "chalk",
       "aliases": [
         "cloud",
@@ -218,7 +218,7 @@
       "name": "berg",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An iceberg: more below the surface than above. Hidden depth, the unseen part \u2014 estimates and hidden complexity.",
+      "description": "An iceberg: more below the surface than above. Hidden depth, the unseen part — estimates and hidden complexity.",
       "style": "blueprint",
       "aliases": [
         "iceberg",
@@ -230,7 +230,7 @@
       "name": "clam",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A closed clam, calm outside and busy within. Composure, the work you don't see \u2014 encapsulation and clean APIs.",
+      "description": "A closed clam, calm outside and busy within. Composure, the work you don't see — encapsulation and clean APIs.",
       "style": "gouache",
       "aliases": [
         "shellfish",
@@ -242,7 +242,7 @@
       "name": "yoke",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A placid ox \u2014 hitch it and walk away. Steady, reliable work that just finishes \u2014 delegation and automation.",
+      "description": "A placid ox — hitch it and walk away. Steady, reliable work that just finishes — delegation and automation.",
       "style": "blueprint",
       "aliases": [
         "ox",
@@ -256,7 +256,7 @@
       "name": "tug",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A horseshoe magnet that pulls the whole pile along. Attraction, gathering things together \u2014 and dependencies.",
+      "description": "A horseshoe magnet that pulls the whole pile along. Attraction, gathering things together — and dependencies.",
       "style": "enamel",
       "aliases": [
         "magnet",
@@ -268,7 +268,7 @@
       "name": "patch",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A roll of tape that holds it together, for now. Good-enough fixes that buy time \u2014 hotfixes and workarounds.",
+      "description": "A roll of tape that holds it together, for now. Good-enough fixes that buy time — hotfixes and workarounds.",
       "style": "manila",
       "aliases": [
         "tape",
@@ -280,7 +280,7 @@
       "name": "scrub",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An eraser that clears away what's done. Tidying, letting go, making it like it never was \u2014 deleting dead code.",
+      "description": "An eraser that clears away what's done. Tidying, letting go, making it like it never was — deleting dead code.",
       "style": "clay",
       "aliases": [
         "eraser",
@@ -292,7 +292,7 @@
       "name": "sift",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A footed colander that keeps what matters and drops the rest. Filtering and focus \u2014 triage, signal vs noise.",
+      "description": "A footed colander that keeps what matters and drops the rest. Filtering and focus — triage, signal vs noise.",
       "style": "pixel",
       "aliases": [
         "colander",
@@ -305,7 +305,7 @@
       "name": "nona",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A nesting doll that carries every version before it. History, layers, each self holding the last \u2014 and releases.",
+      "description": "A nesting doll that carries every version before it. History, layers, each self holding the last — and releases.",
       "style": "woodcut",
       "aliases": [
         "nesting-doll",
@@ -319,7 +319,7 @@
       "name": "stoke",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A vacuum tube kept warm and ready. Readiness, the glow that never quite goes cold \u2014 caching and warm starts.",
+      "description": "A vacuum tube kept warm and ready. Readiness, the glow that never quite goes cold — caching and warm starts.",
       "style": "phosphor",
       "aliases": [
         "vacuum-tube",
@@ -332,7 +332,7 @@
       "name": "clack",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A blank domino: one tip and it all goes. Chain reactions, consequences, the tipping point \u2014 cascading failures.",
+      "description": "A blank domino: one tip and it all goes. Chain reactions, consequences, the tipping point — cascading failures.",
       "style": "chalk",
       "aliases": [
         "domino",
@@ -344,7 +344,7 @@
       "name": "dice",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A one-pip die that leaves it to chance. Luck, risk, you-never-know \u2014 and flaky tests.",
+      "description": "A one-pip die that leaves it to chance. Luck, risk, you-never-know — and flaky tests.",
       "style": "pixel",
       "aliases": [
         "die"
@@ -355,7 +355,7 @@
       "name": "bray",
       "author": "Matt Van Horn",
       "version": "1.0.1",
-      "description": "A bent-wire donkey that carries the load without complaint. Steady, patient, never quits \u2014 hauling, batch work, slow throughput.",
+      "description": "A bent-wire donkey that carries the load without complaint. Steady, patient, never quits — hauling, batch work, slow throughput.",
       "style": "riso",
       "aliases": [
         "donkey",
@@ -388,7 +388,7 @@
       "name": "plume",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A baby owl that notices what others miss. Attention and the night watch \u2014 observability and code review.",
+      "description": "A baby owl that notices what others miss. Attention and the night watch — observability and code review.",
       "style": "felt",
       "aliases": [
         "owl",
@@ -400,7 +400,7 @@
       "name": "posy",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A flower-bud sprite just starting to open up. Fresh starts, good mornings, beginnings \u2014 and onboarding.",
+      "description": "A flower-bud sprite just starting to open up. Fresh starts, good mornings, beginnings — and onboarding.",
       "style": "felt",
       "aliases": [
         "flower",
@@ -412,7 +412,7 @@
       "name": "pleat",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A soup dumpling, fresh out and ready to serve. Freshness, good timing, hot-off-the-line \u2014 and new releases.",
+      "description": "A soup dumpling, fresh out and ready to serve. Freshness, good timing, hot-off-the-line — and new releases.",
       "style": "felt",
       "aliases": [
         "dumpling",
@@ -424,7 +424,7 @@
       "name": "wick",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A tall lamplighter who keeps the lights on. Watch-keeping, lighting the way, warmth in the dark \u2014 and on-call and uptime.",
+      "description": "A tall lamplighter who keeps the lights on. Watch-keeping, lighting the way, warmth in the dark — and on-call and uptime.",
       "style": "diorama",
       "aliases": [
         "lamplighter",
@@ -436,7 +436,7 @@
       "name": "spritz",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A round watering can that helps things grow. Nurture, fresh starts, a little care daily \u2014 provisioning and onboarding.",
+      "description": "A round watering can that helps things grow. Nurture, fresh starts, a little care daily — provisioning and onboarding.",
       "style": "diorama",
       "aliases": [
         "watering-can",
@@ -448,10 +448,58 @@
       "name": "whorl",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A soft snail that keeps a copy of everything. Memory, carrying your history, never losing what matters \u2014 backups and snapshots.",
+      "description": "A soft snail that keeps a copy of everything. Memory, carrying your history, never losing what matters — backups and snapshots.",
       "style": "diorama",
       "aliases": [
         "snail"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "coil",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A round-faced retro tin-toy robot with bendy accordion-hose limbs, eager and emotive. Retro-tech, automation, and the small daily dramas of working life.",
+      "style": "sketchbook",
+      "aliases": [
+        "tin-robot",
+        "tin-toy"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "relay",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A switchboard operator who patches every call through to the right place. Connecting people and parts — and networking, integrations, and talking between services.",
+      "style": "sketchbook",
+      "aliases": [
+        "operator",
+        "switchboard"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "marshal",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A ground marshaller who waves the whole airfield into order with two glowing wands. Directing traffic — and orchestration, scheduling, and coordinating many jobs.",
+      "style": "sketchbook",
+      "aliases": [
+        "marshaller",
+        "ground-crew"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "cook",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A short-order cook who keeps the plates flying during the rush. Grace under a full ticket rail — and throughput, work queues, and holding up under load.",
+      "style": "sketchbook",
+      "aliases": [
+        "chef",
+        "line-cook"
       ],
       "cutout_chroma": "magenta"
     }
