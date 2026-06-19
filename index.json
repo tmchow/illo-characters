@@ -502,6 +502,42 @@
         "line-cook"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "fathom",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A brick-built deep-sea diver who walks the dark floor and brings the answer back up. Going deep, getting to the bottom of things — and deep dives and debugging.",
+      "style": "bricks",
+      "aliases": [
+        "diver",
+        "deep-sea-diver"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "orbit",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A brick-built astronaut, already halfway to the next thing, flag in hand. Launches, exploring the unknown, the leap past the edge of the map — and shipping.",
+      "style": "bricks",
+      "aliases": [
+        "astronaut",
+        "spaceman"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "klaxon",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A brick-built firefighter, calm exactly when things aren't. Moving toward the trouble, putting it out, getting everyone to safety — and incidents and firefighting mode.",
+      "style": "bricks",
+      "aliases": [
+        "firefighter",
+        "fireman"
+      ],
+      "cutout_chroma": "magenta"
     }
   ]
 }
