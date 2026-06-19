@@ -6,6 +6,7 @@ surface until it reaches the root.
 Credit: **Mole by Trevin Chow**.
 
 Style: **clay**
+Cutout chroma: **magenta**
 
 ## Locked design
 

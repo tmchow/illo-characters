@@ -8,7 +8,10 @@ A **pack** is one folder, `packs/<name>/`, holding exactly:
 
 - `character.md` — the spec. Required sections: `## Locked design`,
   `## Prompt spec` (one blockquoted paragraph for illo's CHARACTER prompt
-  slot), `## Value rules`. Recommended: `## Personality` and a
+  slot), `## Value rules`. Required metadata lines after `Style:`:
+  **`Cutout chroma: green|magenta`** — the pack's cutout screen color for
+  illo transparency extraction (`green` for forged/wrought-metal silhouettes
+  like Wick; `magenta` otherwise). Recommended: `## Personality` and a
   `Credit: **<Name> by <author>**` line near the top. Optional `Aliases:`
   line (comma-separated subject synonyms — `Aliases: ox, zebu`) so users can
   say "use ox" for a pack named `yoke`; add it when the name doesn't read
@@ -45,9 +48,10 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    check with `file`, convert with `sips -s format png in --out out.png` on
    macOS or `magick in out.png`).
 2. **`index.json`** — append `{"name", "author", "version", "description",
-   "style"}` (style = the pack's look, matching the `Style:` line), plus an
-   optional `aliases` array mirroring the `Aliases:` line. This is the
-   machine catalog the skill's `packs list` reads; a pack absent here is
+   "style", "cutout_chroma"}` (style = the pack's look, matching the `Style:`
+   line; cutout_chroma = `green` or `magenta`, matching the `Cutout chroma:`
+   line), plus an optional `aliases` array mirroring the `Aliases:` line. This
+   is the machine catalog the skill's `packs list` reads; a pack absent here is
    invisible to installers.
 3. **Root `README.md` catalog table** — add a row with a thumbnail of the
    model sheet: `<img src="packs/<name>/reference.png" width="160">`, the

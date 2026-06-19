@@ -6,6 +6,7 @@ answer comes back hot instead of from a cold start.
 Credit: **Stoke by Trevin Chow**.
 
 Style: **phosphor**
+Cutout chroma: **magenta**
 Aliases: vacuum-tube, tube, valve
 
 ## Locked design

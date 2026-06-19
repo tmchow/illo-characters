@@ -6,6 +6,7 @@ off the design — it is a little *posy* with a face.
 Credit: **Posy by Trevin Chow**
 
 Style: **felt**
+Cutout chroma: **magenta**
 Aliases: flower, blossom
 
 ## Locked design

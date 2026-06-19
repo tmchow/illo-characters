@@ -7,6 +7,7 @@ fresh bed is provisioned.
 Credit: **Spritz by Trevin Chow**
 
 Style: **diorama**
+Cutout chroma: **magenta**
 Aliases: watering-can, can
 
 ## Locked design

@@ -7,6 +7,7 @@ newest resting just under the tip.
 Credit: **Whorl by Trevin Chow**
 
 Style: **diorama**
+Cutout chroma: **magenta**
 Aliases: snail
 
 ## Locked design

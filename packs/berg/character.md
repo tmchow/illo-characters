@@ -7,6 +7,7 @@ below the line, which is exactly the job.
 Credit: **Berg by Trevin Chow**.
 
 Style: **blueprint**
+Cutout chroma: **magenta**
 Aliases: iceberg, ice
 
 ## Locked design

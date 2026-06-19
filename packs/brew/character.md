@@ -6,6 +6,7 @@ ships, and there's always a build brewing.
 Credit: **Brew by Trevin Chow**.
 
 Style: **gouache**
+Cutout chroma: **magenta**
 Aliases: mug, coffee-mug, coffee, cup
 
 ## Locked design

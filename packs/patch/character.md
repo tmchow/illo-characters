@@ -7,6 +7,7 @@ one ships.
 Credit: **Patch by Trevin Chow**.
 
 Style: **manila**
+Cutout chroma: **magenta**
 Aliases: tape, duct-tape
 
 ## Locked design

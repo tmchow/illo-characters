@@ -6,6 +6,7 @@ the pulsing pink antenna bulb keeps the beat.
 Credit: **Cadence by Todd Dailey**.
 
 Style: **riso**
+Cutout chroma: **magenta**
 
 ## Locked design
 

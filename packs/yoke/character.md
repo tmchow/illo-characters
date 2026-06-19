@@ -7,6 +7,7 @@ character is for.
 Credit: **Yoke by Trevin Chow**.
 
 Style: **blueprint**
+Cutout chroma: **magenta**
 Aliases: ox, zebu, oxen, cattle
 
 ## Locked design

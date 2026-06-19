@@ -7,6 +7,7 @@ the previous version still lives inside her. She IS the changelog.
 Credit: **Nona by Trevin Chow**.
 
 Style: **woodcut**
+Cutout chroma: **magenta**
 Aliases: nesting-doll, matryoshka, russian-doll, doll
 
 ## Locked design

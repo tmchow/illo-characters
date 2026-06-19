@@ -6,6 +6,7 @@ feet.
 Credit: **Anvil by Trevin Chow**.
 
 Style: **woodcut**
+Cutout chroma: **magenta**
 
 ## Locked design
 

@@ -6,6 +6,7 @@ screen is a *blip*, a little signal, and the dot eyes echo it.
 Credit: **Blip by Trevin Chow** (the original illo mascot).
 
 Style: **riso**
+Cutout chroma: **magenta**
 Aliases: robot, bot
 
 ## Locked design

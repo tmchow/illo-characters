@@ -6,6 +6,7 @@ the stamp.
 Credit: **Stamp by Trevin Chow**.
 
 Style: **manila**
+Cutout chroma: **magenta**
 Aliases: rubber-stamp
 
 ## Locked design

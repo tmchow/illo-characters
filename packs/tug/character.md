@@ -7,6 +7,7 @@ dragging everything else along.
 Credit: **Tug by Trevin Chow**.
 
 Style: **enamel**
+Cutout chroma: **magenta**
 Aliases: magnet, horseshoe-magnet
 
 ## Locked design

@@ -7,6 +7,7 @@ keeping that flame lit is the whole job.
 Credit: **Wick by Trevin Chow**
 
 Style: **diorama**
+Cutout chroma: **green**
 Aliases: lamplighter, lantern
 
 ## Locked design
