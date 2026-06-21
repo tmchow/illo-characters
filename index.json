@@ -538,6 +538,44 @@
         "fireman"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "kick",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A winged high-top sneaker that can't sit still — speed, motion, and momentum, already three steps ahead. Launches, deploys, and shipping fast.",
+      "style": "fizz",
+      "aliases": [
+        "sneaker",
+        "shoe",
+        "hi-top"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "pop",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A cracked-open soda can erupting with fizz, toasting every win — pure celebration and hype. Launches, releases, and announcements.",
+      "style": "fizz",
+      "aliases": [
+        "soda",
+        "cola"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "boom",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A wide '80s boombox with a calm deadpan face, cranking the volume on good news — sound and signal. Broadcasts, changelogs, and launch-day hype.",
+      "style": "fizz",
+      "aliases": [
+        "boombox",
+        "stereo",
+        "radio"
+      ],
+      "cutout_chroma": "magenta"
     }
   ]
 }
