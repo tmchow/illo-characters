@@ -590,6 +590,43 @@
         "kuro-neko"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "sulk",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A dumpy grey city pigeon that has seen it all and is not impressed. Deadpan reactions, holding your ground, and the things that just keep showing up.",
+      "style": "bloom",
+      "aliases": [
+        "pigeon",
+        "dove"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "doze",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A stout, sleepy capybara loaf — calm, unbothered, and in no hurry at all. Patience, calm under pressure, and the warmth of refusing to panic.",
+      "style": "bloom",
+      "aliases": [
+        "capybara",
+        "capy"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "mochi",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A round, smug little shiba pup that has claimed the spot and won't give it back. Stubborn ownership, comfort, and small victories defended in earnest.",
+      "style": "bloom",
+      "aliases": [
+        "shiba",
+        "shiba-inu",
+        "puppy"
+      ],
+      "cutout_chroma": "magenta"
     }
   ]
 }
