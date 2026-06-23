@@ -62,6 +62,9 @@ default, or switch per run.
 | [`pop`](packs/pop/) | <img src="packs/pop/preview.png" width="280"> | fizz | Trevin Chow | A cracked-open soda can erupting with fizz, toasting every win — pure celebration and hype. Launches, releases, and announcements. _aka `soda`, `can`, `cola`._ ([model sheet](packs/pop/reference.png)) |
 | [`boom`](packs/boom/) | <img src="packs/boom/preview.png" width="280"> | fizz | Trevin Chow | A wide '80s boombox with a calm deadpan face, cranking the volume on good news — sound and signal. Broadcasts, changelogs, and launch-day hype. _aka `boombox`, `stereo`, `radio`._ ([model sheet](packs/boom/reference.png)) |
 | [`pitz`](packs/pitz/) | <img src="packs/pitz/preview.png" width="280"> | bloom | yizhengzhou | A fat black cat loaf — catching mistakes and the quiet burn of knowing something's off. Corrections, second looks, and small ordinary dramas. _aka `black-cat`, `cat`, `kitty`, `kuro-neko`._ ([model sheet](packs/pitz/reference.png)) |
+| [`sulk`](packs/sulk/) | <img src="packs/sulk/preview.png" width="280"> | bloom | Trevin Chow | A dumpy grey city pigeon that has seen it all and is not impressed. Deadpan reactions, holding your ground, and the things that just keep showing up. _aka `pigeon`, `dove`._ ([model sheet](packs/sulk/reference.png)) |
+| [`doze`](packs/doze/) | <img src="packs/doze/preview.png" width="280"> | bloom | Trevin Chow | A stout, sleepy capybara loaf — calm, unbothered, and in no hurry at all. Patience, calm under pressure, and the warmth of refusing to panic. _aka `capybara`, `capy`._ ([model sheet](packs/doze/reference.png)) |
+| [`mochi`](packs/mochi/) | <img src="packs/mochi/preview.png" width="280"> | bloom | Trevin Chow | A round, smug little shiba pup that has claimed the spot and won't give it back. Stubborn ownership, comfort, and small victories defended in earnest. _aka `shiba`, `shiba-inu`, `puppy`._ ([model sheet](packs/mochi/reference.png)) |
 
 ## Installing a pack
 
