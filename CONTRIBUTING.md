@@ -6,7 +6,7 @@ A pack is one folder: `packs/<name>/` with exactly these files.
 
 | File | What it is |
 |---|---|
-| `character.md` | The written spec. Must contain the sections `## Locked design`, `## Prompt spec`, `## Value rules`, and a `Style: <look>` line naming one of the twelve bundled looks — riso, blueprint, woodcut, pixel, clay, manila, chalk, phosphor, enamel, gouache, felt, diorama (custom styles work locally but can't ship in catalog packs yet; add `## Personality` and a credit line as you like). Lead the description and personality with what the character *is and does* — keep any engineering use-case as one lens at the end, not the headline. Optionally an `Aliases:` line — comma-separated subject synonyms (`Aliases: ox, zebu`) so users can summon the pack by what it is ("use ox" → `yoke`); add it when the name doesn't plainly read off the subject. The prompt spec is one blockquoted paragraph that drops into illo's CHARACTER prompt slot. |
+| `character.md` | The written spec. Must contain the sections `## Locked design`, `## Prompt spec`, `## Value rules`, and a `Style: <look>` line naming one of the sixteen bundled looks — riso, blueprint, woodcut, pixel, clay, manila, chalk, phosphor, enamel, gouache, felt, diorama, sketchbook, bricks, fizz, bloom (custom styles work locally but can't ship in catalog packs yet; add `## Personality` and a credit line as you like). Lead the description and personality with what the character *is and does* — keep any engineering use-case as one lens at the end, not the headline. Optionally an `Aliases:` line — comma-separated subject synonyms (`Aliases: ox, zebu`) so users can summon the pack by what it is ("use ox" → `yoke`); add it when the name doesn't plainly read off the subject. The prompt spec is one blockquoted paragraph that drops into illo's CHARACTER prompt slot. |
 | `reference.png` | The canonical model sheet — one clean, front-facing, full-body render on plain paper. This is the consistency anchor the skill passes as `--ref`. |
 | `preview.png` | One *scene* render where the character performs an idea (load-bearing, not posing). This is the review artifact: a model sheet can hide a character that falls apart in scenes. |
 
@@ -14,9 +14,10 @@ Rules (CI-enforced by `.github/validate.py` on every PR):
 
 - `<name>` is lowercase kebab-case and **globally unique** — `index.json`
   here is the ecosystem's name registry ("use <name>" is how agents select
-  characters). Reserved names: `blot`, `illo`, and the ten look names
+  characters). Reserved names: `blot`, `illo`, and the sixteen look names
   (`riso`, `blueprint`, `woodcut`, `pixel`, `clay`, `manila`, `chalk`,
-  `phosphor`, `enamel`, `gouache`). **Aliases are selection keys too** — each
+  `phosphor`, `enamel`, `gouache`, `felt`, `diorama`, `sketchbook`,
+  `bricks`, `fizz`, `bloom`). **Aliases are selection keys too** — each
   must be kebab-case, not reserved, not a pack name, and unique across all
   packs (CI enforces this).
 - Only `.md` and `.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB.
