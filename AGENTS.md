@@ -40,7 +40,8 @@ A pack PR touches exactly four places. Missing any one fails CI or review:
    the whole ecosystem — this repo's `index.json` is the registry. Reserved
    (never pack names): `blot` (ships with the skill), `illo`, and the look
    names (`riso`, `blueprint`, `woodcut`, `pixel`, `clay`, `manila`,
-   `chalk`, `phosphor`, `enamel`, `gouache`, `felt`, `diorama`). **Aliases share this
+   `chalk`, `phosphor`, `enamel`, `gouache`, `felt`, `diorama`,
+   `sketchbook`, `bricks`, `fizz`, `bloom`). **Aliases share this
    namespace** — an alias must not equal any pack name, alias, or reserved
    name. CI enforces all of these. Only
    `.md`/`.png` files; `character.md` ≤ 16 KB; each PNG ≤ 3 MB and a **real

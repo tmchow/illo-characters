@@ -61,7 +61,7 @@ default, or switch per run.
 | [`kick`](packs/kick/) | <img src="packs/kick/preview.png" width="280"> | fizz | Trevin Chow | A winged high-top sneaker that can't sit still — speed, motion, and momentum, already three steps ahead. Launches, deploys, and shipping fast. _aka `sneaker`, `shoe`, `hi-top`._ ([model sheet](packs/kick/reference.png)) |
 | [`pop`](packs/pop/) | <img src="packs/pop/preview.png" width="280"> | fizz | Trevin Chow | A cracked-open soda can erupting with fizz, toasting every win — pure celebration and hype. Launches, releases, and announcements. _aka `soda`, `can`, `cola`._ ([model sheet](packs/pop/reference.png)) |
 | [`boom`](packs/boom/) | <img src="packs/boom/preview.png" width="280"> | fizz | Trevin Chow | A wide '80s boombox with a calm deadpan face, cranking the volume on good news — sound and signal. Broadcasts, changelogs, and launch-day hype. _aka `boombox`, `stereo`, `radio`._ ([model sheet](packs/boom/reference.png)) |
-| [`pitz`](packs/pitz/) | <img src="packs/pitz/preview.png" width="280"> | riso | yizhengzhou | A fat black cat loaf — catching mistakes and the quiet burn of knowing something's off. Corrections, second looks, and small ordinary dramas. _aka `black-cat`, `cat`, `kitty`, `kuro-neko`._ ([model sheet](packs/pitz/reference.png)) |
+| [`pitz`](packs/pitz/) | <img src="packs/pitz/preview.png" width="280"> | bloom | yizhengzhou | A fat black cat loaf — catching mistakes and the quiet burn of knowing something's off. Corrections, second looks, and small ordinary dramas. _aka `black-cat`, `cat`, `kitty`, `kuro-neko`._ ([model sheet](packs/pitz/reference.png)) |
 
 ## Installing a pack
 
