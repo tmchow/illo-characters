@@ -627,6 +627,19 @@
         "puppy"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "prompt",
+      "author": "Jai Toor",
+      "version": "1.0.0",
+      "description": "A little command-line terminal, blinking caret and all, waiting for the word. Getting started, running the thing, and turning a plain sentence into work done.",
+      "style": "blueprint",
+      "aliases": [
+        "terminal",
+        "cli",
+        "command-line"
+      ],
+      "cutout_chroma": "magenta"
     }
   ]
 }
