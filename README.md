@@ -65,7 +65,7 @@ default, or switch per run.
 | [`sulk`](packs/sulk/) | <img src="packs/sulk/preview.png" width="280"> | bloom | Trevin Chow | A dumpy grey city pigeon that has seen it all and is not impressed. Deadpan reactions, holding your ground, and the things that just keep showing up. _aka `pigeon`, `dove`._ ([model sheet](packs/sulk/reference.png)) |
 | [`doze`](packs/doze/) | <img src="packs/doze/preview.png" width="280"> | bloom | Trevin Chow | A stout, sleepy capybara loaf — calm, unbothered, and in no hurry at all. Patience, calm under pressure, and the warmth of refusing to panic. _aka `capybara`, `capy`._ ([model sheet](packs/doze/reference.png)) |
 | [`mochi`](packs/mochi/) | <img src="packs/mochi/preview.png" width="280"> | bloom | Trevin Chow | A round, smug little shiba pup that has claimed the spot and won't give it back. Stubborn ownership, comfort, and small victories defended in earnest. _aka `shiba`, `shiba-inu`, `puppy`._ ([model sheet](packs/mochi/reference.png)) |
-| [`prompt`](packs/prompt/) | <img src="packs/prompt/preview.png" width="280"> | blueprint | Jai Toor | A little command-line terminal, blinking caret and all, waiting for the word. Getting started, running the thing, and turning a plain sentence into work done. _aka `terminal`, `cli`, `command-line`._ ([model sheet](packs/prompt/reference.png)) |
+| [`prompt`](packs/prompt/) | <img src="packs/prompt/preview.png" width="280"> | blueprint | Jai Toor | A little command-line terminal that pulls tangled instructions into clean commands, blinking caret and all. Getting started, running the thing, and turning plain language into work done. _aka `terminal`, `cli`, `command-line`._ ([model sheet](packs/prompt/reference.png)) |
 
 ## Installing a pack
 

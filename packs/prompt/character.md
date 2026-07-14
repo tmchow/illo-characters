@@ -19,6 +19,7 @@ Aliases: terminal, cli, command-line
 - **Accent carrier**: ONE small solid block-caret sitting just to the right of
   the mouth — the only accent-colored part. It is a plain filled rectangle
   (the blinking cursor), never a letter, never text, never a second caret.
+  Nothing extends from it: no beam, trail, underline, or horizontal rule.
 - Small stubby arms and legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
