@@ -19,6 +19,7 @@ Aliases: terminal, cli, command-line
 - **Accent carrier**: ONE small solid block-caret sitting just to the right of
   the mouth — the only accent-colored part. It is a plain filled rectangle
   (the blinking cursor), never a letter, never text, never a second caret.
+  Nothing extends from it: no beam, trail, underline, or horizontal rule.
 - Small stubby arms and legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
@@ -28,9 +29,11 @@ Aliases: terminal, cli, command-line
 > top title-bar and three small dots at its left, two simple dot eyes, one
 > thin flat straight mouth, blank deadpan (no eyebrows), small stubby arms and
 > legs, and ONE small solid block-caret just to the right of the mouth; the
-> block-caret is the ONLY accent-colored part. It MUST perform the move, not
-> decorate. It is drawn in the same construction line as everything else, eyes
-> as solid dots, the block-caret in the accent color.
+> block-caret is the ONLY accent-colored part. It stays a compact filled
+> rectangle; nothing extends from it — no beam, trail, underline, or horizontal
+> rule. It MUST perform the move, not decorate. It is drawn in the same
+> construction line as everything else, eyes as solid dots, the block-caret in
+> the accent color.
 
 ## Value rules
 

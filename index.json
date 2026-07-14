@@ -631,7 +631,7 @@
     {
       "name": "prompt",
       "author": "Jai Toor",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A little command-line terminal, blinking caret and all, waiting for the word. Getting started, running the thing, and turning a plain sentence into work done.",
       "style": "blueprint",
       "aliases": [
