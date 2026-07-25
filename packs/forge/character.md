@@ -1,7 +1,7 @@
 # Forge — character pack
 
-A stubby SNES-era smith apprentice with an apron and hammer. The name reads
-off the work — forge is where things get made.
+A smith apprentice with an apron and hammer. The name reads off the work —
+forge is where things get made.
 
 Credit: **Forge by Trevin Chow**.
 
