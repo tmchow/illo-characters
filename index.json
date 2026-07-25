@@ -1,67 +1,6 @@
 {
   "packs": [
     {
-      "name": "blip",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A deadpan screen-faced robot, dependable and a little literal — the original mascot. Robots, automation, and just being reliably present.",
-      "style": "riso",
-      "aliases": [
-        "robot",
-        "bot"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "pip",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A small round bird, little but always on time. Couriers, small deliveries, quiet persistence — and shipping small, often.",
-      "style": "riso",
-      "aliases": [
-        "bird",
-        "chick"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "cone",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A traffic cone, politely in your way. Caution, hold-ups, not-just-yet — blockers, WIP, and slowing down a beat.",
-      "style": "riso",
-      "aliases": [
-        "traffic-cone",
-        "pylon"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "sprout",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A just-sprouted seed, small now but not for long. Growth, beginnings, the payoff of small daily effort — and compounding.",
-      "style": "riso",
-      "aliases": [
-        "seed",
-        "seedling"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "lumen",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A little light bulb — the moment it clicks. Ideas, clarity, the plan coming together, and how-it-works.",
-      "style": "blueprint",
-      "aliases": [
-        "light-bulb",
-        "lightbulb",
-        "bulb"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
       "name": "anvil",
       "author": "Trevin Chow",
       "version": "1.0.1",
@@ -70,155 +9,10 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "volt",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A battery, charged and ready. Energy, capacity, and the rest-then-go rhythm — and recharge.",
-      "style": "pixel",
-      "aliases": [
-        "battery",
-        "cell"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "mole",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A plump mole that digs to the bottom of things. Curiosity, getting to the root, going deep — and debugging.",
-      "style": "clay",
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "stamp",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A rubber stamp that makes it official. Approval, sign-off, the decision that lets things move — and shipping gates.",
-      "style": "manila",
-      "aliases": [
-        "rubber-stamp"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "lapse",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "An hourglass watching the time slip by. Deadlines, timeboxes, patience — and where the time went.",
-      "style": "chalk",
-      "aliases": [
-        "hourglass",
-        "sandglass",
-        "egg-timer"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "scope",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A stout periscope that keeps an eye on things. Watching, noticing, perspective — observability, monitoring, and scope creep.",
-      "style": "phosphor",
-      "aliases": [
-        "periscope"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "boss",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A round shield — nothing gets past it. Protection, standing guard, holding the line — security and guarding prod.",
-      "style": "enamel",
-      "aliases": [
-        "shield",
-        "buckler"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "brew",
-      "author": "Trevin Chow",
-      "version": "1.0.2",
-      "description": "A coffee mug: good things, steeping. Deep work, patience, warmth — and builds quietly brewing.",
-      "style": "gouache",
-      "aliases": [
-        "mug",
-        "coffee-mug",
-        "coffee",
-        "cup"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "inch",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "An inchworm taking one small step at a time. Steady progress, patience, slowly getting there — increments and migrations.",
-      "style": "chalk",
-      "aliases": [
-        "inchworm",
-        "caterpillar"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "grit",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A tardigrade that survives anything and mentions nothing. Endurance, toughness, quiet resilience — and fault tolerance.",
-      "style": "pixel",
-      "aliases": [
-        "tardigrade",
-        "water-bear",
-        "moss-piglet"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "heft",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A beetle that moves what's bigger than itself. Hard slow work, persistence, the long push — and the big refactor.",
-      "style": "woodcut",
-      "aliases": [
-        "beetle",
-        "dung-beetle",
-        "scarab"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "lure",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "An anglerfish that finds the one in the dark. Searching, discovery, the answer surfacing — and retrieval.",
-      "style": "phosphor",
-      "aliases": [
-        "anglerfish",
-        "fish"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "squall",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A little storm cloud — the rough patch, weathered. The hard days you get through, and incidents and outages.",
-      "style": "chalk",
-      "aliases": [
-        "cloud",
-        "storm-cloud",
-        "thundercloud",
-        "storm"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
       "name": "berg",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "An iceberg: more below the surface than above. Hidden depth, the unseen part — estimates and hidden complexity.",
+      "description": "An iceberg: more below the surface than above. Hidden depth, the unseen part \u2014 estimates and hidden complexity.",
       "style": "blueprint",
       "aliases": [
         "iceberg",
@@ -227,127 +21,39 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "clam",
+      "name": "blip",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A closed clam, calm outside and busy within. Composure, the work you don't see — encapsulation and clean APIs.",
-      "style": "gouache",
+      "description": "A deadpan screen-faced robot, dependable and a little literal \u2014 the original mascot. Robots, automation, and just being reliably present.",
+      "style": "riso",
       "aliases": [
-        "shellfish",
-        "mollusk"
+        "robot",
+        "bot"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "yoke",
+      "name": "boom",
       "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A placid ox — hitch it and walk away. Steady, reliable work that just finishes — delegation and automation.",
-      "style": "blueprint",
+      "version": "1.0.0",
+      "description": "A wide '80s boombox with a calm deadpan face, cranking the volume on good news \u2014 sound and signal. Broadcasts, changelogs, and launch-day hype.",
+      "style": "fizz",
       "aliases": [
-        "ox",
-        "zebu",
-        "oxen",
-        "cattle"
+        "boombox",
+        "stereo",
+        "radio"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "tug",
+      "name": "boss",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A horseshoe magnet that pulls the whole pile along. Attraction, gathering things together — and dependencies.",
+      "description": "A round shield \u2014 nothing gets past it. Protection, standing guard, holding the line \u2014 security and guarding prod.",
       "style": "enamel",
       "aliases": [
-        "magnet",
-        "horseshoe-magnet"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "patch",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A roll of tape that holds it together, for now. Good-enough fixes that buy time — hotfixes and workarounds.",
-      "style": "manila",
-      "aliases": [
-        "tape",
-        "duct-tape"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "scrub",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "An eraser that clears away what's done. Tidying, letting go, making it like it never was — deleting dead code.",
-      "style": "clay",
-      "aliases": [
-        "eraser",
-        "rubber"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "sift",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A footed colander that keeps what matters and drops the rest. Filtering and focus — triage, signal vs noise.",
-      "style": "pixel",
-      "aliases": [
-        "colander",
-        "sieve",
-        "strainer"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "nona",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A nesting doll that carries every version before it. History, layers, each self holding the last — and releases.",
-      "style": "woodcut",
-      "aliases": [
-        "nesting-doll",
-        "matryoshka",
-        "russian-doll",
-        "doll"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "stoke",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A vacuum tube kept warm and ready. Readiness, the glow that never quite goes cold — caching and warm starts.",
-      "style": "phosphor",
-      "aliases": [
-        "vacuum-tube",
-        "tube",
-        "valve"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "clack",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A blank domino: one tip and it all goes. Chain reactions, consequences, the tipping point — cascading failures.",
-      "style": "chalk",
-      "aliases": [
-        "domino",
-        "domino-tile"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "dice",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A one-pip die that leaves it to chance. Luck, risk, you-never-know — and flaky tests.",
-      "style": "pixel",
-      "aliases": [
-        "die"
+        "shield",
+        "buckler"
       ],
       "cutout_chroma": "magenta"
     },
@@ -355,12 +61,26 @@
       "name": "bray",
       "author": "Matt Van Horn",
       "version": "1.0.1",
-      "description": "A bent-wire donkey that carries the load without complaint. Steady, patient, never quits — hauling, batch work, slow throughput.",
+      "description": "A bent-wire donkey that carries the load without complaint. Steady, patient, never quits \u2014 hauling, batch work, slow throughput.",
       "style": "riso",
       "aliases": [
         "donkey",
         "mule",
         "burro"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "brew",
+      "author": "Trevin Chow",
+      "version": "1.0.2",
+      "description": "A coffee mug: good things, steeping. Deep work, patience, warmth \u2014 and builds quietly brewing.",
+      "style": "gouache",
+      "aliases": [
+        "mug",
+        "coffee-mug",
+        "coffee",
+        "cup"
       ],
       "cutout_chroma": "magenta"
     },
@@ -373,85 +93,26 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "quill",
+      "name": "clack",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A baby hedgehog that curls up around what matters. Protecting, guarding, keeping the precious thing safe.",
-      "style": "felt",
+      "description": "A blank domino: one tip and it all goes. Chain reactions, consequences, the tipping point \u2014 cascading failures.",
+      "style": "chalk",
       "aliases": [
-        "hedgehog",
-        "porcupine"
+        "domino",
+        "domino-tile"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "plume",
+      "name": "clam",
       "author": "Trevin Chow",
       "version": "1.0.1",
-      "description": "A baby owl that notices what others miss. Attention and the night watch — observability and code review.",
-      "style": "felt",
+      "description": "A closed clam, calm outside and busy within. Composure, the work you don't see \u2014 encapsulation and clean APIs.",
+      "style": "gouache",
       "aliases": [
-        "owl",
-        "owlet"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "posy",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A flower-bud sprite just starting to open up. Fresh starts, good mornings, beginnings — and onboarding.",
-      "style": "felt",
-      "aliases": [
-        "flower",
-        "blossom"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "pleat",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A soup dumpling, fresh out and ready to serve. Freshness, good timing, hot-off-the-line — and new releases.",
-      "style": "felt",
-      "aliases": [
-        "dumpling",
-        "bao"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "wick",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A tall lamplighter who keeps the lights on. Watch-keeping, lighting the way, warmth in the dark — and on-call and uptime.",
-      "style": "diorama",
-      "aliases": [
-        "lamplighter",
-        "lantern"
-      ],
-      "cutout_chroma": "green"
-    },
-    {
-      "name": "spritz",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A round watering can that helps things grow. Nurture, fresh starts, a little care daily — provisioning and onboarding.",
-      "style": "diorama",
-      "aliases": [
-        "watering-can",
-        "can"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "whorl",
-      "author": "Trevin Chow",
-      "version": "1.0.1",
-      "description": "A soft snail that keeps a copy of everything. Memory, carrying your history, never losing what matters — backups and snapshots.",
-      "style": "diorama",
-      "aliases": [
-        "snail"
+        "shellfish",
+        "mollusk"
       ],
       "cutout_chroma": "magenta"
     },
@@ -468,26 +129,14 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "relay",
+      "name": "cone",
       "author": "Trevin Chow",
-      "version": "1.0.0",
-      "description": "A switchboard operator who patches every call through to the right place. Connecting people and parts — and networking, integrations, and talking between services.",
-      "style": "sketchbook",
+      "version": "1.0.1",
+      "description": "A traffic cone, politely in your way. Caution, hold-ups, not-just-yet \u2014 blockers, WIP, and slowing down a beat.",
+      "style": "riso",
       "aliases": [
-        "operator",
-        "switchboard"
-      ],
-      "cutout_chroma": "magenta"
-    },
-    {
-      "name": "marshal",
-      "author": "Trevin Chow",
-      "version": "1.0.0",
-      "description": "A ground marshaller who waves the whole airfield into order with two glowing wands. Directing traffic — and orchestration, scheduling, and coordinating many jobs.",
-      "style": "sketchbook",
-      "aliases": [
-        "marshaller",
-        "ground-crew"
+        "traffic-cone",
+        "pylon"
       ],
       "cutout_chroma": "magenta"
     },
@@ -495,7 +144,7 @@
       "name": "cook",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A short-order cook who keeps the plates flying during the rush. Grace under a full ticket rail — and throughput, work queues, and holding up under load.",
+      "description": "A short-order cook who keeps the plates flying during the rush. Grace under a full ticket rail \u2014 and throughput, work queues, and holding up under load.",
       "style": "sketchbook",
       "aliases": [
         "chef",
@@ -504,10 +153,33 @@
       "cutout_chroma": "magenta"
     },
     {
+      "name": "dice",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A one-pip die that leaves it to chance. Luck, risk, you-never-know \u2014 and flaky tests.",
+      "style": "pixel",
+      "aliases": [
+        "die"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "doze",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A stout, sleepy capybara loaf \u2014 calm, unbothered, and in no hurry at all. Patience, calm under pressure, and the warmth of refusing to panic.",
+      "style": "bloom",
+      "aliases": [
+        "capybara",
+        "capy"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
       "name": "fathom",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A brick-built deep-sea diver who walks the dark floor and brings the answer back up. Going deep, getting to the bottom of things — and deep dives and debugging.",
+      "description": "A brick-built deep-sea diver who walks the dark floor and brings the answer back up. Going deep, getting to the bottom of things \u2014 and deep dives and debugging.",
       "style": "bricks",
       "aliases": [
         "diver",
@@ -516,26 +188,52 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "orbit",
+      "name": "forge",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A brick-built astronaut, already halfway to the next thing, flag in hand. Launches, exploring the unknown, the leap past the edge of the map — and shipping.",
-      "style": "bricks",
+      "description": "A smith apprentice with an apron and gold hammer. Craft, iteration, and unlocking the right tool.",
+      "style": "snes",
       "aliases": [
-        "astronaut",
-        "spaceman"
+        "smith",
+        "apprentice"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "klaxon",
+      "name": "grit",
       "author": "Trevin Chow",
-      "version": "1.0.0",
-      "description": "A brick-built firefighter, calm exactly when things aren't. Moving toward the trouble, putting it out, getting everyone to safety — and incidents and firefighting mode.",
-      "style": "bricks",
+      "version": "1.0.1",
+      "description": "A tardigrade that survives anything and mentions nothing. Endurance, toughness, quiet resilience \u2014 and fault tolerance.",
+      "style": "pixel",
       "aliases": [
-        "firefighter",
-        "fireman"
+        "tardigrade",
+        "water-bear",
+        "moss-piglet"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "heft",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A beetle that moves what's bigger than itself. Hard slow work, persistence, the long push \u2014 and the big refactor.",
+      "style": "woodcut",
+      "aliases": [
+        "beetle",
+        "dung-beetle",
+        "scarab"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "inch",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "An inchworm taking one small step at a time. Steady progress, patience, slowly getting there \u2014 increments and migrations.",
+      "style": "chalk",
+      "aliases": [
+        "inchworm",
+        "caterpillar"
       ],
       "cutout_chroma": "magenta"
     },
@@ -543,7 +241,7 @@
       "name": "kick",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A winged high-top sneaker that can't sit still — speed, motion, and momentum, already three steps ahead. Launches, deploys, and shipping fast.",
+      "description": "A winged high-top sneaker that can't sit still \u2014 speed, motion, and momentum, already three steps ahead. Launches, deploys, and shipping fast.",
       "style": "fizz",
       "aliases": [
         "sneaker",
@@ -553,65 +251,75 @@
       "cutout_chroma": "magenta"
     },
     {
-      "name": "pop",
+      "name": "klaxon",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A cracked-open soda can erupting with fizz, toasting every win — pure celebration and hype. Launches, releases, and announcements.",
-      "style": "fizz",
+      "description": "A brick-built firefighter, calm exactly when things aren't. Moving toward the trouble, putting it out, getting everyone to safety \u2014 and incidents and firefighting mode.",
+      "style": "bricks",
       "aliases": [
-        "soda",
-        "cola"
+        "firefighter",
+        "fireman"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "boom",
+      "name": "lapse",
       "author": "Trevin Chow",
-      "version": "1.0.0",
-      "description": "A wide '80s boombox with a calm deadpan face, cranking the volume on good news — sound and signal. Broadcasts, changelogs, and launch-day hype.",
-      "style": "fizz",
+      "version": "1.0.1",
+      "description": "An hourglass watching the time slip by. Deadlines, timeboxes, patience \u2014 and where the time went.",
+      "style": "chalk",
       "aliases": [
-        "boombox",
-        "stereo",
-        "radio"
+        "hourglass",
+        "sandglass",
+        "egg-timer"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "pitz",
-      "author": "yizhengzhou",
-      "version": "1.0.0",
-      "description": "A fat black cat loaf with a slightly grumpy look — a quiet mascot for catching mistakes and the small dramas of everyday life. Corrections, second looks, and the slow burn of noticing something off.",
-      "style": "bloom",
+      "name": "lumen",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A little light bulb \u2014 the moment it clicks. Ideas, clarity, the plan coming together, and how-it-works.",
+      "style": "blueprint",
       "aliases": [
-        "black-cat",
-        "cat",
-        "kitty",
-        "kuro-neko"
+        "light-bulb",
+        "lightbulb",
+        "bulb"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "sulk",
+      "name": "lure",
       "author": "Trevin Chow",
-      "version": "1.0.0",
-      "description": "A dumpy grey city pigeon that has seen it all and is not impressed. Deadpan reactions, holding your ground, and the things that just keep showing up.",
-      "style": "bloom",
+      "version": "1.0.1",
+      "description": "An anglerfish that finds the one in the dark. Searching, discovery, the answer surfacing \u2014 and retrieval.",
+      "style": "phosphor",
       "aliases": [
-        "pigeon",
-        "dove"
+        "anglerfish",
+        "fish"
       ],
       "cutout_chroma": "magenta"
     },
     {
-      "name": "doze",
+      "name": "marshal",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A stout, sleepy capybara loaf — calm, unbothered, and in no hurry at all. Patience, calm under pressure, and the warmth of refusing to panic.",
-      "style": "bloom",
+      "description": "A ground marshaller who waves the whole airfield into order with two glowing wands. Directing traffic \u2014 and orchestration, scheduling, and coordinating many jobs.",
+      "style": "sketchbook",
       "aliases": [
-        "capybara",
-        "capy"
+        "marshaller",
+        "ground-crew"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "matt",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A stubby SNES scout in a pointed hood. Journeys, exploration, and scouting the next tile.",
+      "style": "snes",
+      "aliases": [
+        "scout"
       ],
       "cutout_chroma": "magenta"
     },
@@ -629,6 +337,126 @@
       "cutout_chroma": "magenta"
     },
     {
+      "name": "mole",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A plump mole that digs to the bottom of things. Curiosity, getting to the root, going deep \u2014 and debugging.",
+      "style": "clay",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "nona",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A nesting doll that carries every version before it. History, layers, each self holding the last \u2014 and releases.",
+      "style": "woodcut",
+      "aliases": [
+        "nesting-doll",
+        "matryoshka",
+        "russian-doll",
+        "doll"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "orbit",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A brick-built astronaut, already halfway to the next thing, flag in hand. Launches, exploring the unknown, the leap past the edge of the map \u2014 and shipping.",
+      "style": "bricks",
+      "aliases": [
+        "astronaut",
+        "spaceman"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "patch",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A roll of tape that holds it together, for now. Good-enough fixes that buy time \u2014 hotfixes and workarounds.",
+      "style": "manila",
+      "aliases": [
+        "tape",
+        "duct-tape"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "pip",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A small round bird, little but always on time. Couriers, small deliveries, quiet persistence \u2014 and shipping small, often.",
+      "style": "riso",
+      "aliases": [
+        "bird",
+        "chick"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "pitz",
+      "author": "yizhengzhou",
+      "version": "1.0.0",
+      "description": "A fat black cat loaf with a slightly grumpy look \u2014 a quiet mascot for catching mistakes and the small dramas of everyday life. Corrections, second looks, and the slow burn of noticing something off.",
+      "style": "bloom",
+      "aliases": [
+        "black-cat",
+        "cat",
+        "kitty",
+        "kuro-neko"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "pleat",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A soup dumpling, fresh out and ready to serve. Freshness, good timing, hot-off-the-line \u2014 and new releases.",
+      "style": "felt",
+      "aliases": [
+        "dumpling",
+        "bao"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "plume",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A baby owl that notices what others miss. Attention and the night watch \u2014 observability and code review.",
+      "style": "felt",
+      "aliases": [
+        "owl",
+        "owlet"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "pop",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A cracked-open soda can erupting with fizz, toasting every win \u2014 pure celebration and hype. Launches, releases, and announcements.",
+      "style": "fizz",
+      "aliases": [
+        "soda",
+        "cola"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "posy",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A flower-bud sprite just starting to open up. Fresh starts, good mornings, beginnings \u2014 and onboarding.",
+      "style": "felt",
+      "aliases": [
+        "flower",
+        "blossom"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
       "name": "prompt",
       "author": "Jai Toor",
       "version": "1.0.1",
@@ -638,6 +466,212 @@
         "terminal",
         "cli",
         "command-line"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "quill",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A baby hedgehog that curls up around what matters. Protecting, guarding, keeping the precious thing safe.",
+      "style": "felt",
+      "aliases": [
+        "hedgehog",
+        "porcupine"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "relay",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A switchboard operator who patches every call through to the right place. Connecting people and parts \u2014 and networking, integrations, and talking between services.",
+      "style": "sketchbook",
+      "aliases": [
+        "operator",
+        "switchboard"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "scope",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A stout periscope that keeps an eye on things. Watching, noticing, perspective \u2014 observability, monitoring, and scope creep.",
+      "style": "phosphor",
+      "aliases": [
+        "periscope"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "scrub",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "An eraser that clears away what's done. Tidying, letting go, making it like it never was \u2014 deleting dead code.",
+      "style": "clay",
+      "aliases": [
+        "eraser",
+        "rubber"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "sift",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A footed colander that keeps what matters and drops the rest. Filtering and focus \u2014 triage, signal vs noise.",
+      "style": "pixel",
+      "aliases": [
+        "colander",
+        "sieve",
+        "strainer"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "spritz",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A round watering can that helps things grow. Nurture, fresh starts, a little care daily \u2014 provisioning and onboarding.",
+      "style": "diorama",
+      "aliases": [
+        "watering-can",
+        "can"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "sprout",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A just-sprouted seed, small now but not for long. Growth, beginnings, the payoff of small daily effort \u2014 and compounding.",
+      "style": "riso",
+      "aliases": [
+        "seed",
+        "seedling"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "squall",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A little storm cloud \u2014 the rough patch, weathered. The hard days you get through, and incidents and outages.",
+      "style": "chalk",
+      "aliases": [
+        "cloud",
+        "storm-cloud",
+        "thundercloud",
+        "storm"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "stamp",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A rubber stamp that makes it official. Approval, sign-off, the decision that lets things move \u2014 and shipping gates.",
+      "style": "manila",
+      "aliases": [
+        "rubber-stamp"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "stoke",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A vacuum tube kept warm and ready. Readiness, the glow that never quite goes cold \u2014 caching and warm starts.",
+      "style": "phosphor",
+      "aliases": [
+        "vacuum-tube",
+        "tube",
+        "valve"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "sulk",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A dumpy grey city pigeon that has seen it all and is not impressed. Deadpan reactions, holding your ground, and the things that just keep showing up.",
+      "style": "bloom",
+      "aliases": [
+        "pigeon",
+        "dove"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "tug",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A horseshoe magnet that pulls the whole pile along. Attraction, gathering things together \u2014 and dependencies.",
+      "style": "enamel",
+      "aliases": [
+        "magnet",
+        "horseshoe-magnet"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "volt",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A battery, charged and ready. Energy, capacity, and the rest-then-go rhythm \u2014 and recharge.",
+      "style": "pixel",
+      "aliases": [
+        "battery",
+        "cell"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "whorl",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A soft snail that keeps a copy of everything. Memory, carrying your history, never losing what matters \u2014 backups and snapshots.",
+      "style": "diorama",
+      "aliases": [
+        "snail"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "wick",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A tall lamplighter who keeps the lights on. Watch-keeping, lighting the way, warmth in the dark \u2014 and on-call and uptime.",
+      "style": "diorama",
+      "aliases": [
+        "lamplighter",
+        "lantern"
+      ],
+      "cutout_chroma": "green"
+    },
+    {
+      "name": "ybur",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A girl knight with a high black ponytail and blue tabard. Momentum, gaps, and earnest resolve.",
+      "style": "snes",
+      "aliases": [
+        "knight"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "yoke",
+      "author": "Trevin Chow",
+      "version": "1.0.1",
+      "description": "A placid ox \u2014 hitch it and walk away. Steady, reliable work that just finishes \u2014 delegation and automation.",
+      "style": "blueprint",
+      "aliases": [
+        "ox",
+        "zebu",
+        "oxen",
+        "cattle"
       ],
       "cutout_chroma": "magenta"
     }
