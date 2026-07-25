@@ -1,7 +1,7 @@
 # Ybur — character pack
 
-A stubby SNES-era girl knight in a blue tabard. The name is personal; the
-design reads as a party-member knight ready for the next gap.
+A knight in a blue tabard. The name is personal; the design reads as a
+party-member knight ready for the next gap.
 
 Credit: **Ybur by Trevin Chow**.
 

@@ -1,6 +1,6 @@
 # Matt — character pack
 
-A stubby SNES-era scout in a pointed hood. The name is personal; the design
+A hooded scout who checks the path ahead. The name is personal; the design
 reads as a party-member scout on the overworld.
 
 Credit: **Matt by Trevin Chow**.

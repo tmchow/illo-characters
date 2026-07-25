@@ -316,7 +316,7 @@
       "name": "matt",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A stubby SNES scout in a pointed hood. Journeys, exploration, and scouting the next tile.",
+      "description": "A hooded scout who checks the path ahead. Journeys, exploration, and getting unstuck on the map.",
       "style": "snes",
       "aliases": [
         "scout"
@@ -654,7 +654,7 @@
       "name": "ybur",
       "author": "Trevin Chow",
       "version": "1.0.0",
-      "description": "A girl knight with a high black ponytail and blue tabard. Momentum, gaps, and earnest resolve.",
+      "description": "A knight in a blue tabard. Momentum, gaps, and earnest resolve.",
       "style": "snes",
       "aliases": [
         "knight"
