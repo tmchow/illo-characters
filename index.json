@@ -33,6 +33,18 @@
       "cutout_chroma": "magenta"
     },
     {
+      "name": "booboo",
+      "author": "Trevin Chow",
+      "version": "1.0.0",
+      "description": "A boy wizard in a star-scattered slate cloak. Curiosity, detours that still count, and small unlocks.",
+      "style": "snes",
+      "aliases": [
+        "wizard",
+        "mage"
+      ],
+      "cutout_chroma": "magenta"
+    },
+    {
       "name": "boom",
       "author": "Trevin Chow",
       "version": "1.0.0",
