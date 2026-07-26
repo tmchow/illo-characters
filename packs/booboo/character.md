@@ -16,11 +16,12 @@ Aliases: wizard, mage
   a pointed wizard hat, and a full cloak — never a licensed franchise mage.
 - **Face**: two simple square-dot eyes, completely blank and deadpan — no
   eyebrows, no mouth, ever.
-- **Stars**: scattered silver / pale-cream stars on both the hat and the
-  cloak — the **accent carrier** and the only accent-colored parts (one
-  accent system).
+- **Stars + orb**: scattered silver / pale-cream stars on both the hat and
+  the cloak, plus the pale silver-white sphere orb on the wand tip — one
+  shared **accent system** and the only accent-colored parts.
 - **Wand**: a simple wood/ink stick tipped with a **small sphere orb /
-  jewel** (pale silver-white) — never a star tip, never a crystal shard.
+  jewel** (pale silver-white, matching the stars) — never a star tip,
+  never a crystal shard; the stick itself stays wood/ink, not accent.
 - Small stubby arms and legs; simple boots peeking under the cloak.
 - Everything, including the mascot, is built from visible square pixels
   with a stair-stepped outline and soft dither — nothing about it is smooth.
