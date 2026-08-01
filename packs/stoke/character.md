@@ -32,6 +32,18 @@ Aliases: vacuum-tube, tube, valve
   gauges, vents; a monitor bezel; mouth, eyebrows, hats, clothing,
   accessories.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips — press, push, pat, and carry
+  only, no fingers, no grasp; a carried object balances against the
+  cylinder body.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: base — it stands directly on its socket puck, no
+  legs.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a vacuum tube: one tall rounded-top cylinder with

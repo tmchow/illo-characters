@@ -33,6 +33,21 @@ Aliases: magnet, horseshoe-magnet
   seams, taper, a second bend, extra prongs, eyebrows, mouth, pin-back
   hardware.
 
+## Interaction model
+
+- Contact surfaces: the two bare-steel tips — planted as feet and the
+  magnetic contact points where attracted hardware clings — and the
+  enamel body, which leans its whole mass into the pull and wears what
+  it has attracted.
+- Reach: body-contact only.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — the two steel-tipped bar ends.
+- Protected regions: the face interior — only the two pale-enamel dot
+  eyes appear there.
+- Special operators: magnetic attraction through the bare-steel tips —
+  the locked power source; objects are drawn in and cling to the tips,
+  never grasped.
+
 ## Prompt spec
 
 > the recurring mascot — a horseshoe magnet standing upright: one thick bar

@@ -29,6 +29,18 @@ Aliases: chef, line-cook
   realistic proportions, a chef's toque (it is a folded paper cap), a second
   accent color.
 
+## Interaction model
+
+- Contact surfaces: the two mitten hands (hold, carry, flip — a
+  whole-mitten hold with no fingers; one usually keeps the spatula) and
+  the little rounded shoes (stand, brace).
+- Reach: short.
+- Grip: grasp.
+- Support/locomotion: feet.
+- Protected regions: the face — only the locked marks appear there: two
+  round dot eyes, tiny dot nose, small simple mouth, soft rounded brows,
+  faint rosy cheeks.
+
 ## Prompt spec
 
 > the recurring mascot — Cook, a cute chibi short-order cook about two heads

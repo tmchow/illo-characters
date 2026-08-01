@@ -32,6 +32,17 @@ Aliases: iceberg, ice
   snow texture, jagged saw-tooth edges, sea props stuck to the body,
   eyebrows, mouth, teeth, hats, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: rounded arm tips (press, pat, steady — no fingers,
+  no grasp); the wide flat base and the big body planes rest, prop, and
+  bear loads on the bulk.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: base.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a small iceberg: one asymmetric low-peaked wedge

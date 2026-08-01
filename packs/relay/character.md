@@ -31,6 +31,17 @@ Aliases: operator, switchboard
   realistic proportions, extra cords beyond what the scene needs, a second
   accent light.
 
+## Interaction model
+
+- Contact surfaces: the mitten hands (whole-hand hold of a cord, plug, or
+  mug — no drawn fingers, so no fine pinch) and the little rounded shoes
+  (stand, step).
+- Reach: stubby.
+- Grip: grasp.
+- Support/locomotion: feet.
+- Protected regions: the face — only the locked dot eyes, tiny nose,
+  small mouth, rounded brows, and rosy cheeks appear there.
+
 ## Prompt spec
 
 > the recurring mascot — Relay, a cute chibi switchboard operator about two

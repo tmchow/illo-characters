@@ -30,6 +30,18 @@ Aliases: tin-robot, tin-toy
   clothing, a chest gauge/dial, jointed rigid (non-ribbed) limbs, or solid
   block hands. Smooth straight rods instead of ribbed coils = wrong robot.
 
+## Interaction model
+
+- Contact surfaces: the three-fingered claw/mitt hands (grasp, hold, and
+  operate objects) and the flat tin feet (stand, brace); the ribbed coil
+  limbs curl and pose loosely, but contact happens at hands and feet.
+- Reach: articulated.
+- Grip: grasp.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two round pupil eyes,
+  the simple brows, and the single thin mouth appear there (emotion via
+  brow and mouth shape only).
+
 ## Prompt spec
 
 > the recurring mascot — Coil, a small round-faced 1950s tin-toy robot: a

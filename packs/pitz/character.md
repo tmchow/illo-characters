@@ -22,6 +22,19 @@ Aliases: black-cat, cat, kitty, kuro-neko
   feel ordinary and funny, not elegant or fashionable.
 - Never add: a second accent part, body patterns, clothing, or extra limbs.
 
+## Interaction model
+
+- Contact surfaces: the small front paws — press, pat, bat, and hold a
+  carried object against the body; soft pads, no grasp. The body loaf
+  leans and pins.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: paws — the tucked loaf rests on its own mass.
+- Protected regions: the face interior — only the locked comic eyes,
+  triangular nose, and tiny crooked mouth appear there.
+- Special operators: none — the forward-curled tail and its accent tip
+  are part of the silhouette, never a limb or hook.
+
 ## Prompt spec
 
 > the recurring mascot — a compact, very round black cat loaf with a short soft

@@ -25,6 +25,17 @@ Cutout chroma: **magenta**
 - **Accent carrier**: the round bulb on the single short head antenna — the
   ONLY accent-colored part.
 
+## Interaction model
+
+- Contact surfaces: the robot gripper hands (grasp, hold, lift, press);
+  the rounded foot-pods (stand, step, press).
+- Reach: articulated.
+- Grip: grasp.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes with
+  their eyelash flicks appear there; the sweatband crosses the forehead
+  above them.
+
 ## Prompt spec (drop into the CHARACTER slot)
 
 > the recurring mascot — Cadence, a friendly robot with a fit

@@ -23,6 +23,20 @@ Aliases: smith, apprentice
 - Everything, including the mascot, is built from visible square pixels
   with a stair-stepped outline and soft dither — nothing about it is smooth.
 
+## Interaction model
+
+- Contact surfaces: the rounded hand-nubs (press, pat, carry a thing
+  against the body — no fingers, no grasp) and the simple boots (stand,
+  brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two square-dot eyes
+  appear there.
+- Special operators: the hammer — the one declared held prop, resting
+  against a hand-nub at his side; carrying it is design-locked, not
+  evidence of general grasp.
+
 ## Prompt spec
 
 > the recurring mascot — a stubby SNES-era boy smith apprentice with an

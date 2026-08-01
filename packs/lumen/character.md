@@ -20,6 +20,16 @@ Aliases: light-bulb, lightbulb, bulb
 - Small stubby arms and legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips — press, push, pat, and carry
+  only, no grasp; the feet stand and brace.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — the stubby legs.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a rounded glass-bulb body, gently pear-shaped, on a

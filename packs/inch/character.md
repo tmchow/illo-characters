@@ -30,6 +30,18 @@ Aliases: inchworm, caterpillar
   leaves or apples, teeth, accessories, accent on the front end or both
   ends.
 
+## Interaction model
+
+- Contact surfaces: the two gripper pads — plant, anchor, press, and
+  pin an object to the ground; the arched body may lean on or push
+  against things. No arms anywhere.
+- Reach: body-contact only.
+- Grip: pressure/contact only.
+- Support/locomotion: the two gripper pads, arch-stepping one
+  body-length at a time.
+- Protected regions: the face interior — only the two chalk-dot eyes
+  appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump inchworm: one smooth tube body bent into a

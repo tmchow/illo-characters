@@ -28,6 +28,17 @@ Aliases: nesting-doll, matryoshka, russian-doll, doll
   bands, a neck break or collar, halftone dots, hats, clothing,
   accessories, eyebrows, mouth, shiny/anime eyes.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm stubs — press, pat, steady, and carry
+  against the body only; no hands, no fingers, no grasp. The tiny stub
+  feet stand and brace.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — tiny stubs under the flat base.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a plain wooden nesting doll: one continuous

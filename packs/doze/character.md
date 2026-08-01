@@ -22,6 +22,18 @@ Aliases: capybara, capy
 - Never add: a second accent part, fur patterns, clothing, or extra detail on
   the snout.
 
+## Interaction model
+
+- Contact surfaces: the short stubby legs (stand, tread, press the
+  ground) and the loaf body itself (lean, settle, press; a load may
+  rest against the side or on the back).
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: feet (the short stubby legs); body mass when
+  settled into the loaf.
+- Protected regions: the face interior — only the droopy half-asleep
+  eyes and the accent nose appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a stout, loaf-shaped capybara with a heavy rounded

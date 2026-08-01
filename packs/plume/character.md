@@ -25,6 +25,18 @@ Aliases: owl, owlet
 - Never add: a mouth, brows, talons, loose extra feathers, body patterns,
   hats, multiple accent parts.
 
+## Interaction model
+
+- Contact surfaces: the stubby felt feet — stand, press, and pin; the
+  rounded feathered body leans and nudges. The scalloped feather tiers
+  are locked body treatment, not wings — nothing flaps, grasps, or
+  carries.
+- Reach: body-contact only.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the facial disc — only the locked felt eye discs
+  with dark pupils and the stitched V-beak appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump round baby owl, a rounded egg/dome body with

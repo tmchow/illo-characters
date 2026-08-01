@@ -31,6 +31,18 @@ Aliases: snail
 - Never add: a smooth spiral shell, an accent on the antennae, multiple
   spires, a mouth, brows, eyes on the stones.
 
+## Interaction model
+
+- Contact surfaces: the soft body underside — glides, presses, and nudges
+  by body contact; the back bears only its own locked stone stack, and
+  the stubby antennae are sensory only and never handle objects. Nothing
+  rests on the stack or its accent spire.
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: body mass — the soft foot glides.
+- Protected regions: the face interior — only the two small dark dot eyes
+  appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a soft snail with a low rounded body, a raised head

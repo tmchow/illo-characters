@@ -24,6 +24,17 @@ Aliases: periscope
 - Never add: rivets, panels, seams, a second lens, antennae, dials,
   eyebrows, mouth, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm nubs on the tube (press, push, pat,
+  carry against the body — no hands, no grasp) and the stubby legs at the
+  base (stand, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the lens window interior — only the two dot eyes
+  appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a stout periscope: one chunky upright tube with a

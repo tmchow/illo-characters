@@ -22,6 +22,17 @@ Aliases: scout
 - Everything, including the mascot, is built from visible square pixels
   with a stair-stepped outline and soft dither — nothing about it is smooth.
 
+## Interaction model
+
+- Contact surfaces: the stubby arm tips — press, push, pat, and carry
+  only, no grasp (the pixel mitts have no fingers); the boots stand and
+  step.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — the stubby booted legs.
+- Protected regions: the face interior — only the two square-dot eyes
+  appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a stubby SNES-era human scout with an oversized

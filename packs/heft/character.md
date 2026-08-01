@@ -26,6 +26,17 @@ Aliases: beetle, dung-beetle, scarab
   toes, spots or pips on the shell, folk-paint decoration, wings, teeth,
   tools, hats, clothing, accessories, eyebrows, shiny/anime eyes.
 
+## Interaction model
+
+- Contact surfaces: the two flat front pusher pads (plant, press, push,
+  roll the load — no grasp) and the dome shoulder (shove into a load);
+  the back pair of stub legs brace.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet (the four stubby legs).
+- Protected regions: the face interior — only the two uncarved paper dot
+  eyes appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a stout ball-rolling beetle: one solid domed

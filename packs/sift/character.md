@@ -28,6 +28,18 @@ Aliases: colander, sieve, strainer
   wire texture, steam, pasta or any food, a pedestal stem, mouth, eyebrows,
   accent-colored or highlighted holes, smooth anti-aliased curves.
 
+## Interaction model
+
+- Contact surfaces: the stubby arm tips (press, pat, steady — no hands,
+  no grasp), the two stubby feet (stand, brace), and the open bowl
+  interior, which catches and holds a load while the noise falls through
+  the fixed holes.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the upper-bowl face — only the two dot eyes appear
+  there; the belly carries only the fixed sparse hole grid.
+
 ## Prompt spec
 
 > the recurring mascot — a footed colander: one wide shallow bowl body,

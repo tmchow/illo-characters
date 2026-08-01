@@ -23,6 +23,19 @@ Aliases: rubber-stamp
 - Never add: letters or words on the stamp itself, an ink pad, paper
   accessories, handles beyond the one knob, eyebrows, mouth, clothing.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips (press, push, pat, carry against
+  the body — no hands, no grasp), the stubby legs (stand, brace), and the
+  flat underside of the base, which stamps with one firm full-body press.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the base's front face — only the two dot eyes appear
+  there.
+- Special operators: none — the knob handle is the accent carrier,
+  never a limb or support of its own.
+
 ## Prompt spec
 
 > the recurring mascot — an upright rubber stamp: a flat rounded-rectangle

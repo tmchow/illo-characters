@@ -20,6 +20,17 @@ Aliases: traffic-cone, pylon
 - Small stubby arms from the sides; stubby little legs under the base.
 - Cuteness comes from proportion and roundness, never from added parts.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips (press, pat, carry against the
+  body — no hands, no grasp) and the stubby feet (stand, brace); the
+  cone body itself blocks and holds its ground.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a soft-edged traffic-cone body with a gently rounded

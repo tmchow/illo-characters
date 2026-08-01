@@ -15,6 +15,16 @@ Credit: Matt Van Horn (@mvanhorn)
 - **Accent carrier**: the small curled tuft at the very tip of the tail — the only accent-colored part.
 - Short stubby wire legs.
 
+## Interaction model
+
+- Contact surfaces: the four wire leg tips (stand, press, paw); the
+  back (carries strapped or balanced loads — the pack animal's job).
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the dot eyes appear there
+  (one in a side-on view).
+
 ## Prompt spec
 
 > the recurring mascot — a compact donkey whose whole body, four short legs, two upright ears, and tail are all formed from a single looping bent-wire outline (the soft rounded loops of bent craft wire, one confident continuous line), two simple dot eyes, blank deadpan (no eyebrows, no mouth), short stubby wire legs; the ONLY accent-colored part is the curled tuft at the tip of the tail. It MUST perform the move, not decorate. {value rule: in a dark palette the wire outline is the structure ink and the dot eyes read in structure ink on the open paper body; in a light palette the same — the body stays open paper with a structure-ink wire outline and structure-ink eyes, never filled. The accent tail-tuft stays accent in both.}

@@ -26,6 +26,20 @@ Aliases: shiba, shiba-inu, puppy
 - Never add: a second accent part, a collar, clothing, body spots beyond the
   locked cream markings.
 
+## Interaction model
+
+- Contact surfaces: the tiny stubby legs — press and pat the ground only;
+  the loaf body presses, plants, and pins the claimed spot; small loads may
+  rest on the back.
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: paws — the tiny stubby legs, mostly parked in a
+  loaf.
+- Protected regions: the face interior — only the locked marks (dot eyes,
+  dark nose, tongue tip) appear there.
+- Special operators: none — the curled tail rests against the back,
+  never a limb or hook.
+
 ## Prompt spec
 
 > the recurring mascot — a plump, round shiba puppy loaf with a soft oval body,

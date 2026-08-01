@@ -27,6 +27,17 @@ Aliases: domino, domino-tile
   seam, wood grain or bevel edges, dice spots, logos, hats, clothing,
   accessories, eyebrows, shiny/anime eyes.
 
+## Interaction model
+
+- Contact surfaces: rounded arm tips (brace, push, press, carry — no
+  hands, no grasp); the feet (stand, dig in heels); the flat slab body
+  leans, props, and topples as a full surface.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the tile face — only the two dot eyes and the
+  accent seam line appear there (no pips, never a mouth).
+
 ## Prompt spec
 
 > the recurring mascot — an upright domino tile: one tall rounded-corner
