@@ -22,6 +22,16 @@ Aliases: robot, bot
   text/expressions, multiple antennae, ears, hats, clothing, accessories,
   shiny/anime eyes, eyebrows, mouth, teeth.
 
+## Interaction model
+
+- Contact surfaces: rounded arm tips (press, push, pat, carry — no
+  fingers, no grasp); the feet (stand, press, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the screen face interior — only the two dot eyes
+  appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a rounded-cube body, one rounded-rectangle screen

@@ -29,6 +29,17 @@ Aliases: soda, cola
 - Never add: a bottle/glass, a sealed lid, a drinking straw, realistic brand
   logos, condensation as the main feature, or a detached/floating fizz cloud.
 
+## Interaction model
+
+- Contact surfaces: the stubby mitten arms — press, pat, wave, and hold a
+  carried object between mitt and can; no fingers, no thumb, no grasp.
+  The tiny stubby feet stand.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the label face — only the locked cartoon eyes
+  and grin appear there.
+
 ## Prompt spec
 
 > the recurring mascot — Pop, a cracked-open soda-pop can with a goofy face:

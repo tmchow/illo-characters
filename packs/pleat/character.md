@@ -26,6 +26,16 @@ Aliases: dumpling, bao
 - Never add: a row of separate pleats or spikes, a second knot, a plate or
   chopsticks as body parts, brows, multiple accent parts.
 
+## Interaction model
+
+- Contact surfaces: the stubby felt arm tips — press, pat, and carry
+  against the bun; no hands, no grasp. The stubby felt legs stand.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the locked dot eyes,
+  stitched mouth, and rosy felt cheeks appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump round felt soup-dumpling bun that gathers to

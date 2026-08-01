@@ -32,6 +32,18 @@ Aliases: sneaker, shoe, hi-top
   than one pair of wings, a tongue-flap mouth (use the grin), realistic
   brand logos/swooshes, or laces that aren't criss-cross.
 
+## Interaction model
+
+- Contact surfaces: the two mitten/three-finger hands — grasp, carry,
+  point; the thick rubber sole presses, stomps, and skids.
+- Reach: stubby.
+- Grip: grasp.
+- Support/locomotion: base — the thick rubber sole.
+- Protected regions: the toe-box face interior — only the two cartoon
+  eyes and the open grin appear there.
+- Special operators: none — the heel wings are the accent carrier (FX
+  only), never a limb, thruster, or means of flight.
+
 ## Prompt spec
 
 > the recurring mascot — Kick, a single chunky high-top canvas sneaker with a

@@ -26,6 +26,20 @@ Aliases: wizard, mage
 - Everything, including the mascot, is built from visible square pixels
   with a stair-stepped outline and soft dither — nothing about it is smooth.
 
+## Interaction model
+
+- Contact surfaces: the rounded hand-nubs (press, pat, carry a thing
+  against the body — no fingers, no grasp); the booted feet (stand,
+  step).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two square-dot eyes
+  appear there.
+- Special operators: the orb-tipped wand — the one declared held prop,
+  resting in a hand-nub; it points and taps, and the orb and stars stay
+  accent and never grip.
+
 ## Prompt spec
 
 > the recurring mascot — a stubby SNES-era boy wizard with an oversized

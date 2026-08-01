@@ -29,6 +29,17 @@ Aliases: lamplighter, lantern
 - Never add: a second lantern, a face on the lantern, eyes on the glass,
   hats, scarves, a mouth, brows, more than one flame.
 
+## Interaction model
+
+- Contact surfaces: the thin wire-fingered metal hands — a light, precise
+  grasp for slender things (a taper, a pole, a lantern bail), never heavy
+  hauling — and the feet for standing and slow steps.
+- Reach: long.
+- Grip: grasp.
+- Support/locomotion: feet — the long forged-metal legs.
+- Protected regions: the face interior — only the two tiny dot eyes appear
+  there — and the lantern glass, which holds nothing but the single flame.
+
 ## Prompt spec
 
 > the recurring mascot — a tall, thin, spindly creature built like delicate

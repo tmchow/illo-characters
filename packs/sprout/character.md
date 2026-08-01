@@ -21,6 +21,18 @@ Aliases: seed, seedling
 - Small stubby arms and stubby legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips (press, push, pat, carry against
+  the body — no fingers, no grasp) and the stubby feet (stand, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+- Special operators: none — the head stem and leaf are the accent
+  carrier, never a limb or hook.
+
 ## Prompt spec
 
 > the recurring mascot — a plump rounded seed body (a soft fat oval), two

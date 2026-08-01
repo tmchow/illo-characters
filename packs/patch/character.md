@@ -28,6 +28,18 @@ Aliases: tape, duct-tape
   cutter blade, printed text or stripes on the tape, extra tabs or trailing
   tape ends, teeth, eyebrows, mouth, hats, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: the stubby arm tips — press a seam flat, pat, steady,
+  and carry against the ring; no hands, no grasp. The stubby feet plant
+  and stand.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes appear
+  there; and the open center hole — the ground shows through it, props
+  never fill it.
+
 ## Prompt spec
 
 > the recurring mascot — a fat roll of tape: one soft thick ring standing

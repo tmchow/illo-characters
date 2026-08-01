@@ -29,6 +29,17 @@ Aliases: diver, deep-sea-diver
 - Never add: a speargun, a second air tank, swim fins, a mouth beyond the tiny
   smile, brows, a second accent color on the body.
 
+## Interaction model
+
+- Contact surfaces: the curved mitten C-hands (close around bar- or
+  handle-shaped objects, press, carry — no fingers) and the chunky brick
+  boots (stand, brace).
+- Reach: stubby.
+- Grip: hook.
+- Support/locomotion: feet (the chunky brick boots).
+- Protected regions: the helmet porthole — only the two dark dot eyes
+  and the tiny smile appear behind the glass, never brows.
+
 ## Prompt spec
 
 > the recurring mascot — a small blocky toy-brick deep-sea diver built from

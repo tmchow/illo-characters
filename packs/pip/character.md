@@ -20,6 +20,17 @@ Aliases: bird, chick
 - Small stubby wings held like arms, and two stubby little legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
+## Interaction model
+
+- Contact surfaces: the stubby wing tips — press, pat, and carry against
+  the body; no spelled-out feathers, no grasp. The stubby legs stand and
+  perch.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes and the
+  tiny triangular beak appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump round bird body (a soft ball, no neck), two

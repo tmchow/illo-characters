@@ -31,6 +31,16 @@ Aliases: firefighter, fireman
 - Never add: a second helmet color, a red coat, an axe used as a second accent,
   a mouth beyond the tiny smile, brows.
 
+## Interaction model
+
+- Contact surfaces: the curved mitten hands — clamp around bar-shaped things
+  (a hose nozzle, a ladder rung, a handle); the chunky boots stand and brace.
+- Reach: stubby.
+- Grip: hook.
+- Support/locomotion: feet — the chunky brick boots.
+- Protected regions: the face interior — only the two dot eyes and the tiny
+  determined smile appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a small blocky toy-brick firefighter built from glossy

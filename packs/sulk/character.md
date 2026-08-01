@@ -22,6 +22,17 @@ Aliases: pigeon, dove
 - Never add: a second accent part, neck iridescence patterns, a mouth, brows,
   or clothing.
 
+## Interaction model
+
+- Contact surfaces: the small bird feet — stand, perch, and shuffle — and
+  the round body, which leans, settles, and holds its ground; the folded
+  wings stay tucked and never handle objects.
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the locked heavy-lidded dot
+  eyes and the accent beak appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump, round city pigeon with a low dumpy oval body,

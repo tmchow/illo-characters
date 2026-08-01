@@ -33,6 +33,18 @@ Aliases: shellfish, mollusk
   pearlescent sheen, eyebrows, hats, clothing, accessories, shiny/anime
   eyes.
 
+## Interaction model
+
+- Contact surfaces: the two stub feet (stand, press, nudge, brace) and
+  the closed shell body itself (lean, bump, brace; a load may rest
+  against it, never balanced on top) — no arms, no grasp.
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: feet (the two stub feet).
+- Protected regions: the face interior — only the two dot eyes appear
+  there, and the seam stays a thin straight closed line, never an
+  expression.
+
 ## Prompt spec
 
 > the recurring mascot — a smooth closed bivalve clam shell standing on two

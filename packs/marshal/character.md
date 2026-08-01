@@ -30,6 +30,17 @@ Aliases: marshaller, ground-crew
 - Never add: shiny/anime eyes, a detailed adult face, wrinkles or jawline,
   realistic proportions, a third wand, a second accent color.
 
+## Interaction model
+
+- Contact surfaces: the two mitten hands — grasp; each holds one signal wand,
+  and the wands stay in hand while directing; the rounded boots plant and
+  stand.
+- Reach: stubby.
+- Grip: grasp.
+- Support/locomotion: feet — the little rounded boots.
+- Protected regions: the face interior — only the locked marks (round dot
+  eyes, tiny dot nose, small mouth, soft brows, rosy cheeks) appear there.
+
 ## Prompt spec
 
 > the recurring mascot — Marshal, a cute chibi aircraft ground marshaller about

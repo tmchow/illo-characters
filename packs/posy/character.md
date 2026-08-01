@@ -23,6 +23,17 @@ Aliases: flower, blossom
 - Never add: a stem, loose leaves, extra bugs, arms, brows, multiple accent
   parts.
 
+## Interaction model
+
+- Contact surfaces: the stubby felt feet — stand, press, and pin; the
+  petal body leans and nudges. No arms are drawn — nothing grasps, and
+  the perched ladybug is the accent carrier, never an operator.
+- Reach: body-contact only.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the locked dot eyes,
+  stitched mouth, and rosy felt cheeks appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump round flower-bud creature, a sphere wrapped

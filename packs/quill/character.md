@@ -25,6 +25,18 @@ Aliases: hedgehog, porcupine
 - Never add: extra leaves or flowers, hats, scarves, a mouth, brows, claws,
   multiple accent parts.
 
+## Interaction model
+
+- Contact surfaces: the rounded felt arm nubs (press, pat, hold a thing
+  against the belly — no fingers, no grasp), the stubby feet (stand,
+  brace), and the plump body, which leans against and presses what it
+  keeps.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the locked dot eyes,
+  triangle nose, and rosy cheeks appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump round baby hedgehog whose back and sides are

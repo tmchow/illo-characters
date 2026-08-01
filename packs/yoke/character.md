@@ -28,6 +28,18 @@ Aliases: ox, zebu, oxen, cattle
   itself, long or sharp horns, gears, panels, robot details, eyebrows,
   shiny/anime eyes.
 
+## Interaction model
+
+- Contact surfaces: the four stubby leg ends — stand, tread, press, and
+  brace against the ground — and the broad back at the shoulder hump,
+  where hitched or carried loads rest; the tiny crescent horns never hook
+  or carry.
+- Reach: body-contact only.
+- Grip: none.
+- Support/locomotion: feet — the four stubby legs.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a placid zebu ox drawn as one massive rounded

@@ -29,6 +29,21 @@ Aliases: anglerfish, fish
   extra fins or stalks, a thin filament line, bubbles, eyebrows,
   shiny/anime eyes, hats, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: the tiny stub fins — nudge, pat, and balance an
+  object against the body only, no grasp; the round body may press or
+  bump.
+- Reach: body-contact only.
+- Grip: pressure/contact only.
+- Support/locomotion: body mass — it swims and hovers in the dark,
+  never stands; the small stub tail sculls for propulsion only, never
+  grips, lifts, or carries.
+- Protected regions: the face interior — only the two solid dot eyes
+  appear there.
+- Special operators: the forehead stalk — hangs the glow bead over a
+  find to light it; light only, it never hooks, lifts, or touches.
+
 ## Prompt spec
 
 > the recurring mascot — a chunky round-bodied deep-sea anglerfish, one fat

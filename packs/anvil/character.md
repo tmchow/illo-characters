@@ -19,6 +19,17 @@ Cutout chroma: **magenta**
 - Small stubby arms and legs.
 - Never: hammers as body parts, sparks as decoration, rivets, extra horns.
 
+## Interaction model
+
+- Contact surfaces: rounded arm tips (press, push, pat, carry — no
+  fingers, no grasp); the feet (stand, brace); the flat top bears
+  resting or struck loads — work happens on it.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two uncarved paper
+  dot eyes appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a classic anvil silhouette (flat top, one tapered

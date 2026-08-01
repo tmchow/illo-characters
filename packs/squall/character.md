@@ -26,6 +26,18 @@ Aliases: cloud, storm-cloud, thundercloud, storm
   eyebrows, blush marks, swirly scribbles inside the cloud, extra bumps,
   wind swooshes, an umbrella, a sun, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: the stubby arm tips at the cloud's sides (press,
+  push, pat, carry against the body — no hands, no grasp).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: flight.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+- Special operators: none — the lightning-bolt tail is the accent
+  carrier, never a limb, hook, or striker.
+
 ## Prompt spec
 
 > the recurring mascot — a small storm cloud: one flat-bottomed puffy

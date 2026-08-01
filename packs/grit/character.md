@@ -28,6 +28,17 @@ Aliases: tardigrade, water-bear, moss-piglet
   accessories — and never a smooth anti-aliased rendering: the mascot is
   pixel-built like everything else in the image.
 
+## Interaction model
+
+- Contact surfaces: the four soft leg stubs (stand, press, pat, plod —
+  no claws, no grasp) and the loaf body (lean, brace, carry a load on
+  the back).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet (the four stubby legs).
+- Protected regions: the face interior — only the two square dot eyes
+  appear there; the snout-tube never opens.
+
 ## Prompt spec
 
 > the recurring mascot — a pudgy loaf-shaped tardigrade (water bear): one

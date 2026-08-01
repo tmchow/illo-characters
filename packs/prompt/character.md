@@ -23,6 +23,16 @@ Aliases: terminal, cli, command-line
 - Small stubby arms and legs.
 - Cuteness comes from proportion and roundness, never from added parts.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips — press, tap, pat, and carry
+  against the box; no hands, no grasp. The stubby legs stand.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the screen face — only the locked dot eyes, the thin
+  flat mouth, and the accent block-caret appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a chunky rounded terminal-window box body with a thin

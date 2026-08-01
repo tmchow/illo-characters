@@ -28,6 +28,17 @@ Aliases: astronaut, spaceman
 - Never add: a second tank beyond the one backpack, a colored suit, a mouth
   beyond the tiny smile, brows, a second accent.
 
+## Interaction model
+
+- Contact surfaces: the curved mitten hands — clip around bar-thick
+  handles (a flagpole, a rail, a tool grip), press, and carry; the chunky
+  boots stand and plant.
+- Reach: stubby.
+- Grip: hook.
+- Support/locomotion: feet — the chunky boots.
+- Protected regions: the helmet interior behind the visor — only the two
+  dot eyes and the tiny smile appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a small blocky toy-brick astronaut in a glossy white

@@ -23,6 +23,17 @@ Cutout chroma: **magenta**
 - Never add: whiskers, fur texture, claws, teeth, tools, hats, clothing,
   accessories, eyebrows, mouth, shiny/anime eyes.
 
+## Interaction model
+
+- Contact surfaces: the two flat mitt-shaped digging paws — dig, scoop,
+  shovel, press, and carry between both mitts, no grasp (no fingers
+  spelled out); the feet stand and brace.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — the small stubby legs.
+- Protected regions: the face interior — only the two clay-bead dot
+  eyes and the accent nose tip appear there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump teardrop-shaped clay mole with a small

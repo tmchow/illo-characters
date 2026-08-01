@@ -21,6 +21,18 @@ Aliases: battery, cell
 - Everything, including the mascot, is built from visible square pixels
   with a stair-stepped outline — nothing about it is smooth.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips — press, push, and hug-carry
+  only, no fingers, no grasp — and the feet (stand, press, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two light dot eyes
+  appear there.
+- Special operators: none — the terminal nub is the accent carrier,
+  never a hook or carrier.
+
 ## Prompt spec
 
 > the recurring mascot — an upright rounded-rectangle battery body built

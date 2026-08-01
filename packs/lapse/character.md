@@ -23,6 +23,16 @@ Aliases: hourglass, sandglass, egg-timer
 - Never add: ornate frame posts, a falling-sand stream, cracks, numerals or
   tick marks, eyebrows, mouth, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: the rounded arm tips at the waist — press, pat, and
+  carry only, no grasp; the feet stand and brace.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet — the stubby legs under the base.
+- Protected regions: the upper-bulb face interior — only the two dot
+  eyes appear there.
+
 ## Prompt spec
 
 > the recurring mascot — an hourglass with two rounded glass bulbs pinched

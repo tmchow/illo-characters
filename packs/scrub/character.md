@@ -26,6 +26,17 @@ Aliases: eraser, rubber
   body, glossy sheen, teeth, eyebrows, mouth, hats, clothing, accessories.
   The wedge stays horizontal — never stood upright like a battery block.
 
+## Interaction model
+
+- Contact surfaces: the soft arm nubs (press, pat, steady — no hands, no
+  fingers), the stubby legs (stand, brace), and the scuffed bevel working
+  edge, which erases by a full-body-weight lean into the work.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face — only the two clay-bead dot eyes appear
+  there.
+
 ## Prompt spec
 
 > the recurring mascot — a plump beveled rubber-eraser block of matte clay

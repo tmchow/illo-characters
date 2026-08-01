@@ -24,6 +24,19 @@ Aliases: watering-can, can
 - Never add: water droplets or a stream rendered in the accent color, a
   second spout, a lid-creature, a mouth, brows.
 
+## Interaction model
+
+- Contact surfaces: the single rounded arm tip (press, pat, steady — no
+  hand, no grasp) and the two stubby feet (stand, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two dot eyes appear
+  there.
+- Special operators: the curved spout — pours and waters through its
+  sprinkler-rose by tipping the whole body; the carry handle is for being
+  carried, never a limb.
+
 ## Prompt spec
 
 > the recurring mascot — a rounded, pot-bellied metal watering can with a

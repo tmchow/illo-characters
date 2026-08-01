@@ -25,6 +25,17 @@ Aliases: shield, buckler
 - Never add: heraldry, patterns, rivets, straps, weapons, a second dome,
   eyebrows, mouth, clothing, accessories.
 
+## Interaction model
+
+- Contact surfaces: rounded arm tips (press, push, pat, carry — no
+  fingers, no grasp); the feet (stand, brace); the domed shield body
+  blocks, deflects, and leans as a full-body surface.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the shield face — only the two dot eyes and the
+  central dome boss appear there.
+
 ## Prompt spec
 
 > the recurring mascot — one round, slightly domed buckler shield standing

@@ -30,6 +30,18 @@ Aliases: die
   stair-stepped like everything else), eyebrows, mouth, hats, clothing,
   accessories.
 
+## Interaction model
+
+- Contact surfaces: the rounded stub arm tips (press, brace, steady,
+  carry against the body — no hands, no grasp) and the stubby legs
+  (stand, brace).
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the die faces — only the two dot eyes on the front
+  face and the single accent pip on the top face appear there; every
+  other face stays blank.
+
 ## Prompt spec
 
 > the recurring mascot — a single plump softly-rounded white die, slightly

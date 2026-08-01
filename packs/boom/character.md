@@ -36,6 +36,18 @@ Aliases: boombox, stereo, radio
   antenna, headphones, dense knob/meter/EQ banks, speaker-cones-used-as-eyes,
   or realistic brand text.
 
+## Interaction model
+
+- Contact surfaces: the tiny feet (stand, tap, brace) and the boxy body
+  itself (lean, bump); the mitten arms stay locked akimbo at the sides
+  and touch nothing.
+- Reach: fixed.
+- Grip: none.
+- Support/locomotion: feet.
+- Protected regions: the center console — only the locked marks appear
+  there (the two calm eyes, the cassette-deck mouth, the three-button
+  strip); the speaker grilles stay speakers, never eyes.
+
 ## Prompt spec
 
 > the recurring mascot — Boom, a wide 1980s ghetto-blaster boombox with a calm

@@ -28,6 +28,17 @@ Aliases: mug, coffee-mug, coffee, cup
   a spoon, eyebrows, mouth, clothing, accessories, extra arms, long arms, or
   arm-like tools fused to the body or handle.
 
+## Interaction model
+
+- Contact surfaces: the single small stubby arm's rounded tip (rest,
+  nudge, touch a nearby object only — no grasp); the feet (stand,
+  step). The accent handle is not a hand and never operates anything.
+- Reach: stubby.
+- Grip: pressure/contact only.
+- Support/locomotion: feet.
+- Protected regions: the face interior — only the two bare-paper dot
+  eyes appear there.
+
 ## Prompt spec
 
 > the recurring mascot — one squat round coffee mug standing on small stubby
