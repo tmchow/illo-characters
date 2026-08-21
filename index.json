@@ -686,6 +686,20 @@
         "cattle"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "rod",
+      "author": "Evan Emerson",
+      "version": "1.0.0",
+      "description": "A calm snake wound around a knotty walking stick it has no intention of letting go of. Patience, keeping watch over what matters, and holding to first principles.",
+      "style": "riso",
+      "cutout_chroma": "magenta",
+      "aliases": [
+        "snake",
+        "serpent",
+        "asclepius",
+        "staff"
+      ]
     }
   ]
 }
