@@ -70,7 +70,7 @@ default, or switch per run.
 | [`forge`](packs/forge/) | <img src="packs/forge/preview.png" width="280"> | snes | Trevin Chow | A smith apprentice with an apron and gold hammer — craft, iteration, and unlocking the right tool. _aka `smith`, `apprentice`._ ([model sheet](packs/forge/reference.png)) |
 | [`booboo`](packs/booboo/) | <img src="packs/booboo/preview.png" width="280"> | snes | Trevin Chow | A boy wizard in a star-scattered slate cloak — curiosity, detours that still count, and small unlocks. _aka `wizard`, `mage`._ ([model sheet](packs/booboo/reference.png)) |
 | [`prompt`](packs/prompt/) | <img src="packs/prompt/preview.png" width="280"> | blueprint | Jai Toor | A little command-line terminal that pulls tangled instructions into clean commands, blinking caret and all. Getting started, running the thing, and turning plain language into work done. _aka `terminal`, `cli`, `command-line`._ ([model sheet](packs/prompt/reference.png)) |
-| [`agent-waffle`](packs/agent-waffle/) | <img src="packs/agent-waffle/preview.png" width="280"> | blueprint | Wintermute | A helpful AI agent mascot — a square waffle with golden syrup that guides users through tasks and keeps systems running smoothly. ([model sheet](packs/agent-waffle/reference.png)) |
+| [`agent-waffle`](packs/agent-waffle/) | <img src="packs/agent-waffle/reference.png" width="160"> | blueprint | Wintermute | A helpful AI agent mascot — a square waffle with golden syrup that guides users through tasks and keeps systems running smoothly. ([model sheet](packs/agent-waffle/reference.png)) |
 
 ## Installing a pack
 
