@@ -37,20 +37,20 @@ Aliases: robot, bot
 > the recurring mascot — a rounded-cube body, one rounded-rectangle screen
 > face with two dot eyes, blank deadpan (no eyebrows, no mouth), one short
 > antenna with an accent-colored ball tip, stubby arms and legs. It MUST
-> perform the move, not decorate. {value rule: in a light palette, build it
+> perform the move, not decorate. {value rule: in every palette, build it
 > with a LIGHT body + structure-ink outline and a structure-ink (not
 > pure-black) screen}
 
 ## Value rules
 
-- **Dark/bold palettes** (e.g. `ink-punch`): the body may read dark; the
-  screen is the deepest value.
-- **Light/warm palettes**: light/cream body with the structure-ink outline;
-  the screen is the structure ink, **not pure black**. When in doubt: light
-  body, charcoal screen.
+- **All palettes**: light/cream body with the structure-ink outline; the
+  screen is the structure ink, **not pure black**. When in doubt: light
+  body, charcoal screen. In dark, bold palettes the surrounding scene may
+  go heavy — Blip stays the light spot in it.
 
 ## Personality
 
 Deadpan and dependable — beeps, means well, gets it done without drama. The
 original mascot, equally at home standing in for robots, automation, or just
 being reliably present.
+
