@@ -686,6 +686,14 @@
         "cattle"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "agent-waffle",
+      "author": "Wintermute",
+      "version": "1.0.0",
+      "description": "A helpful AI agent mascot — a square waffle with golden syrup that guides users through tasks and keeps systems running smoothly.",
+      "style": "blueprint",
+      "cutout_chroma": "magenta"
     }
   ]
 }
