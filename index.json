@@ -686,6 +686,54 @@
         "cattle"
       ],
       "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-specialist",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A round creature who fits the missing piece and gets things working, with a cheerful smile and a black shirt marked PSG Specialist.",
+      "style": "sketchbook",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-specialist-riso",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A round creature who fits the missing piece and gets things working, with a cheerful smile and a black shirt marked PSG Specialist.",
+      "style": "riso",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-manager",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A tall oval creature who keeps a wobbling load steady, with a small smile and a black shirt marked PSG Manager.",
+      "style": "sketchbook",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-manager-riso",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A tall oval creature who keeps a wobbling load steady, with a small smile and a black shirt marked PSG Manager.",
+      "style": "riso",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-director",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A wide, calm creature who clears a path for others, with a slight smile and a black shirt marked PSG Director.",
+      "style": "sketchbook",
+      "cutout_chroma": "magenta"
+    },
+    {
+      "name": "psg-director-riso",
+      "author": "Haim Shrayer",
+      "version": "1.0.0",
+      "description": "A wide, calm creature who clears a path for others, with a slight smile and a black shirt marked PSG Director.",
+      "style": "riso",
+      "cutout_chroma": "magenta"
     }
   ]
 }
